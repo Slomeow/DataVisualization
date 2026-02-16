@@ -14,7 +14,7 @@ let countriesData = [];
 
 async function setup() {
   createCanvas(windowWidth, windowHeight);
-  table = await loadTable('/Data/World-happiness-report-2024.csv', ',', 'header');
+  table = await loadJSON('Data/WorldHappiness2024.json');
   console.log(table);
 
   country = table.getColumn(0);
@@ -73,6 +73,8 @@ function draw() {
 
   if(table){
     for (let i = 0; i < countriesData.length; i++) {
+        let country = data[i] ["Country name"];
+        let happiness = data[i] ["Ladder score"];
         let item = countriesData[i];
         let greenAmount = map(item.score, minHappiness, maxHappiness, 0, 1);
         let diameter = getCircleDiameter(item.score);
