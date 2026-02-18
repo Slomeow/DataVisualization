@@ -1,0 +1,1265 @@
+,Name,Category,Bio,Aliases,Flights,Documents,Connections,In Black Book,Nationality
+0,Ghislaine Maxwell,associate,Convicted sex trafficker; Epstein's closest associate and primary recruiter; serving 20 years,['G-Max'],413,900,123,True,British
+1,Jeffrey Epstein,other,Convicted sex offender; financier; died in custody August 2019,['Jeffrey Edward Epstein'],553,414,119,False,American
+2,Sarah Kellen,associate,Epstein's primary scheduler; named co-conspirator with immunity; 364+ flights,['Sarah Kellen Vickers'],364,23,74,True,American
+3,Lesley Groff,associate,Epstein's executive assistant for two decades; named co-conspirator with immunity; 92+ flights,[],92,19,36,True,American
+4,Nadia Marcinkova,associate,Slovak-born Epstein associate brought to US as a teenager; named co-conspirator; became his pilot,"['Nadia Marcinko', 'Global Girl']",140,9,33,True,Slovakian
+5,Igor Zinoviev,associate,Russian MMA fighter (UFC veteran); Epstein bodyguard who was present during victim visits,[],19,6,30,True,Russian-American
+6,Adriana Ross,associate,Polish former model; Epstein assistant; named co-conspirator granted immunity in 2008 NPA,['Adriana Mucinska'],43,9,27,True,Polish
+7,Caren Casey,associate,Flight attendant on Epstein's private aircraft fleet,[],11,0,22,True,American
+8,Larry Visoski,associate,Epstein's chief pilot for 28 years; key Maxwell trial witness; confirmed passengers,['Lawrence Visoski'],281,4,19,True,American
+9,Alfredo Rodriguez,associate,Epstein butler who stole the black book; convicted of obstruction; died 2015,[],280,10,18,False,American
+10,Bill Hammond,associate,Florida pilot on Epstein's Gulfstream and Boeing 727 fleet,['BH'],44,0,16,False,American
+11,Jennifer Kalin,associate,Epstein associate linked to arranged marriage for his girlfriend,['Jennifer Ann Kalin'],10,0,15,False,American
+12,Lana Catterton,associate,Appeared on 8+ Epstein flight manifests,[],8,0,15,False,
+13,Donald Trump,politician,"45th/47th President; flew on Epstein's planes 7+ times, 16 black book numbers",[],3,12,14,True,American
+14,Natalya Malyshev,associate,Epstein recruiter; named defendant in Sarah Ransome's civil lawsuit,"['Natalya Maryshov', 'Natasha Malyshev', 'Natasha']",3,0,14,False,Russian
+15,Prince Andrew,royalty,Duke of York; accused of abuse on three occasions; settled civil suit for ~$12M,"['Duke of York', 'Andrew Albert Christian Edward']",26,9,13,True,British
+16,Pralaya Cuomo,other,Sex trafficking survivor and advocate; appeared on 2 Epstein flights,[],3,0,13,False,American
+17,Jean-Luc Brunel,associate,French modeling agent; charged with sex trafficking; died in custody before trial,[],21,2,12,True,French
+18,Alan Dershowitz,legal,"Harvard Law professor; Epstein defense attorney who negotiated 2008 NPA; accused by Giuffre, later recanted",[],33,7,12,True,American
+19,Virginia Giuffre,other,Central Epstein accuser and trafficking survivor; recruited at 16; died April 2025,"['Virginia Roberts', 'Virginia Roberts Giuffre']",48,34,12,False,American-Australian
+20,Lance Calloway,associate,Epstein's personal chef on Little St. James Island (2006-2009),[],3,0,12,False,American
+21,Darren Indyke,associate,Epstein's personal attorney and estate co-executor; subpoenaed for House Oversight deposition (Mar 2026),[],18,4,11,True,American
+22,Bill Clinton,politician,42nd President; 26+ Epstein flight legs; scheduled for House Oversight deposition (Feb 2026),['William Jefferson Clinton'],38,8,11,True,American
+23,Chauntae Davies,other,Epstein survivor; recruited as masseuse; flew on 2002 Africa trip; Netflix documentary subject,[],20,0,11,False,American
+24,Audrey Strauss,associate,Acting United States Attorney,[],0,9,11,False,
+25,Vanessa Breuer,associate,Flew with Epstein's core inner circle in 2006,[],2,0,11,False,
+26,Minor Victim-1,associate,One of the alleged victims of Maxwell and Epstein's abuse,[],0,3,10,False,
+27,Minor Victim-3,associate,Alleged victim of sexual abuse,[],0,7,10,False,
+28,Minor Victim-2,associate,Another alleged victim of Maxwell and Epstein's abuse,[],0,6,10,False,
+29,Valdson Cotrin,associate,Recipient of a shipment,[],1,1,10,False,
+30,David Rodgers,associate,Epstein pilot whose flight logs became key evidence,[],1,2,9,True,American
+31,Alexander Acosta,legal,U.S. Attorney who approved Epstein's 2008 NPA; resigned as Labor Secretary in 2019,"['Alex Acosta', 'R. Alexander Acosta']",0,13,9,False,American
+32,David Boies,legal,Attorney who represented Virginia Giuffre,['David Boles'],4,5,9,False,American
+33,Catherine Derby,associate,Flew with Epstein's inner circle; Derby family linked to Epstein property management,['Katherine Darby'],3,0,9,False,
+34,Juan Alessi,associate,Former house manager of Epstein's Palm Beach estate,[],2,4,8,True,American
+35,Eva Andersson-Dubin,socialite,Physician; ex-girlfriend of Epstein; 6 black book numbers; testified at Maxwell trial,['Eva Dubin'],8,11,8,True,Swedish-American
+36,Bill Richardson,politician,Former Governor of New Mexico; U.S. Secretary of Energy,['William Blaine Richardson III'],6,1,8,True,American
+37,Bill Gates,business,Microsoft co-founder; met Epstein 6+ times post-conviction; acknowledged it was a mistake,['William Henry Gates III'],1,4,8,False,American
+38,Walter Cronkite,celebrity,Legendary CBS News anchor; appeared on one Epstein flight in 2002 (deceased),[],1,1,8,False,American
+39,Stefanie Tidwell,associate,Flew to Epstein's island in June 2006 alongside Ruslana Korshunova,[],2,0,8,False,
+40,Doug Band,politician,Clinton's senior aide; ~20 Epstein flights; facilitated Clinton-Epstein travel,['Douglas Jay Band'],33,1,7,True,American
+41,Julie K. Brown,other,Miami Herald journalist whose reporting led to Epstein's 2019 arrest,[],0,3,7,False,American
+42,CHRISTIAN R. EVERDELL,associate,Attorney for Defendant Ghislaine Maxwell,[],0,28,7,False,
+43,Bobbi C. Sternheim,associate,Attorney for Defendant Ghislaine Maxwell,[],0,57,7,False,
+44,Dana Burns,associate,Traveler,[],3,1,7,False,
+45,Ruslana Korshunova,other,"Kazakh supermodel; named in flight logs, died 2008 at age 20 (deceased)",[],1,0,7,False,Kazakh
+46,Ruslana Korshunova,other,Kazakh supermodel who visited Epstein's island at 18; died in 2008 at age 20,['Ruslana Korshonova'],1,0,7,False,Kazakhstani
+47,Ehud Barak,politician,Former Israeli PM; ~30 documented visits to Epstein residences post-conviction,[],15,1,6,True,Israeli
+48,Les Wexner,business,Founder of L Brands/Victoria's Secret; Epstein's primary financial patron; named FBI co-conspirator; ordered to depose in Ohio State abuse case (Feb 2026),"['Leslie Wexner', 'Leslie H. Wexner']",15,10,6,True,American
+49,Kevin Spacey,celebrity,Academy Award-winning actor; 6 Epstein flights during 2002 Clinton Foundation Africa trip,['Kevin Spacey Fowler'],6,2,6,True,American
+50,Chris Tucker,celebrity,Actor/comedian; 7 Epstein flights during 2002 Clinton Foundation Africa trip,[],7,1,6,False,American
+51,Melanie Walker,academic,Neurosurgeon; key Epstein-Gates bridge; science advisor to both; DOJ emails show $6M funding request,"['Melanie S. Walker', 'Dr. Melanie Walker']",0,3,6,False,American
+52,Larry Summers,politician,Former U.S. Treasury Secretary; former Harvard President,['Lawrence Henry Summers'],5,0,5,True,American
+53,Leon Black,business,Apollo Global Management co-founder; paid Epstein $158M post-conviction,[],9,1,5,True,American
+54,Glenn Dubin,business,Hedge fund billionaire; 8 black book numbers; accused by Giuffre of sexual abuse,[],15,0,5,True,American
+55,Bradley Edwards,legal,Attorney who represented dozens of Epstein victims,['Brad Edwards'],0,5,5,False,American
+56,Annie Farmer,other,Maxwell trial witness who testified under her real name,[],0,10,5,False,American
+57,JEFFREY S. PAGLIUCA,associate,Attorney for Defendant Ghislaine Maxwell,[],0,24,5,False,
+58,DAMIAN WILLIAMS,associate,United States Attorney for the Southern District of New York,[],0,9,5,False,
+59,Nick,associate,Correspondent and friend,[],1,0,5,False,
+60,Joulia Starodoumovit,associate,Appeared on 3 Epstein flights; no public information available,[],3,0,5,False,
+61,Peter Listerman,associate,Russian businessman and model scout in Epstein's network,[],0,13,4,True,Russian
+62,Teddy Forstmann,business,Billionaire buyout pioneer; founder of IMG,['Theodore Joseph Forstmann'],3,0,4,True,American
+63,Peter Mandelson,politician,British politician; former European Commissioner,['Baron Mandelson'],2,0,4,True,British
+64,Jes Staley,business,Former CEO of Barclays; resigned over Epstein ties,['James Edward Staley'],6,0,4,True,American
+65,Mort Zuckerman,business,Media mogul; owner of NY Daily News,['Mortimer Benjamin Zuckerman'],4,0,4,True,American
+66,Brett Ratner,celebrity,Film director and producer,[],3,0,4,True,American
+67,Pepe Fanjul,business,Sugar magnate and Palm Beach billionaire,['Jose Fanjul'],1,0,4,True,Cuban-American
+68,Sarah Ferguson,royalty,Duchess of York; ex-wife of Prince Andrew,"['Duchess of York', 'Fergie']",2,0,4,True,British
+69,Naomi Campbell,celebrity,British supermodel; 5 Epstein flights; 5 black book numbers; linked to Brunel via modeling,[],5,0,4,True,British
+70,Sigrid McCawley,legal,Lead counsel for Virginia Giuffre in Maxwell defamation suit,[],0,5,4,False,American
+71,Stephen Hawking,academic,Theoretical physicist who attended conference on Epstein's island,[],3,0,4,False,British
+72,Lawrence Krauss,academic,Physicist who maintained ties with Epstein post-conviction,[],1,0,4,False,American
+73,Maria Farmer,other,Among the first to report Epstein to law enforcement in 1996,[],0,4,4,False,American
+74,FBI agents,associate,Investigative agency that seized evidence and conducted forensic analysis,[],0,5,4,False,
+75,Sultan Ahmed bin Sulayem,business,DP World CEO; unredacted by Congress as one of six hidden names in Epstein files,"['Sultan bin Sulayem', 'bin Sulayem']",0,0,4,False,Emirati
+76,Mark Epstein,associate,Jeffrey's brother; 7 black book numbers; owned apartments used to house young women,[],5,0,3,True,American
+77,Haley Robson,associate,Identified as recruiter in Epstein operation while a minor,[],0,9,3,False,American
+78,Gwendolyn Beck,associate,Former girlfriend of Jeffrey Epstein,[],3,0,3,True,American
+79,George Mitchell,politician,Former U.S. Senate Majority Leader,['George John Mitchell Jr.'],6,0,3,True,American
+80,Terje Roed-Larsen,politician,Norwegian diplomat; former UN Special Envoy,[],2,0,3,True,Norwegian
+81,Jose Maria Aznar,politician,Former Prime Minister of Spain,['Jose Maria Aznar Lopez'],2,0,3,True,Spanish
+82,Thomas Pritzker,business,Executive Chairman of Hyatt Hotels Corporation,['Tom Pritzker'],1,1,3,True,American
+83,Michael Bloomberg,politician,Former NYC Mayor; founder of Bloomberg LP,[],1,0,3,True,American
+84,Elon Musk,business,CEO of Tesla and SpaceX; 16+ emails with Epstein revealed in DOJ EFTA release,[],0,4,3,False,American
+85,Edgar Bronfman Sr.,business,Former Chairman of Seagram Company,[],2,0,3,True,Canadian-American
+86,Woody Allen,celebrity,Filmmaker; regular dinner guest at Epstein's townhouse post-conviction,['Allen Stewart Konigsberg'],9,0,3,True,American
+87,Sandy Weill,business,Former Chairman and CEO of Citigroup,['Sanford I. Weill'],1,0,3,True,American
+88,Michael Ovitz,business,Co-founder of CAA; former Disney president; flew on Epstein aircraft; email correspondence in EFTA releases,['Michael Steven Ovitz'],2,0,3,True,American
+89,Ronald Perelman,business,Chairman of MacAndrews & Forbes,['Ron Perelman'],2,0,3,True,American
+90,Charlie Rose,celebrity,TV host; 4 black book numbers; flight logs; attended 2010 post-conviction dinner; later fired for sexual misconduct,[],2,0,3,True,American
+91,Barbara Walters,celebrity,Broadcast journalist; 3 black book numbers; part of Maxwell's NYC social circle,[],1,0,3,True,American
+92,Katie Couric,celebrity,TV journalist; attended 2010 Epstein dinner; 3 black book numbers; wrote about it in memoir,[],1,0,3,True,American
+93,Maurene Comey,legal,Lead prosecutor in the Ghislaine Maxwell trial,[],0,4,3,False,American
+94,Jack Scarola,legal,Victims' rights attorney in Epstein civil cases,[],0,3,3,False,American
+95,Noam Chomsky,academic,MIT linguist; multiple post-conviction meetings with Epstein; defended the interactions,['Avram Noam Chomsky'],1,0,3,False,American
+96,Nicole Junkermann,socialite,Businesswoman and investor listed in Epstein's black book,[],1,0,3,True,German
+97,George Stephanopoulos,celebrity,ABC News anchor who attended post-conviction dinner at Epstein mansion,[],2,0,3,True,American
+98,Les Moonves,business,Former CBS CEO; 4 black book numbers; resigned over separate sexual misconduct allegations,['Leslie Roy Moonves'],2,0,3,True,American
+99,Flavio Briatore,business,F1 team boss; 5 black book numbers; jet-set social circle overlap with Epstein/Maxwell,[],1,0,3,True,Italian
+100,Henry Kissinger,politician,Former Secretary of State; 4 black book numbers; attended post-conviction Epstein dinners,['Henry Alfred Kissinger'],1,0,3,True,American
+101,Tiffany Gramza,associate,Former beauty queen who worked as Epstein assistant,[],1,0,3,False,American
+102,David Oscar Markus,associate,Additional counsel for Ghislaine Maxwell,[],0,15,3,False,
+103,ROBERT GLASSMAN,associate,Jane's attorney,[],0,7,3,False,
+104,Stanley Pottinger,associate,"Sender of email to Amanda Kramer, potentially an attorney or investigator",[],0,2,3,False,
+105,Soon-Yi Previn,other,Wife of Woody Allen; appeared on 8+ Epstein flights (2010-2013),"['Mrs Allen', 'Mrs Allen (Soon Yi Previn)', 'Soon Yi Previn']",9,0,3,False,American
+106,Clare Watts,associate,"Appeared on 17 Epstein flight manifests, likely cabin crew",[],17,0,3,False,
+107,Boris Nikolic,academic,Gates's science advisor; introduced Gates to Epstein; named in Epstein's will,[],0,0,3,False,Croatian-American
+108,Tatyana Simanava,associate,Appeared on 2 Epstein flights in 2006; no public information available,[],2,0,3,False,
+109,Celina Midelfart,socialite,Norwegian businesswoman and socialite,[],1,0,2,True,Norwegian
+110,Peter Soros,business,Financier; nephew of George Soros,[],2,0,2,True,American
+111,Lynn Forester de Rothschild,business,CEO of EL Rothschild; businesswoman,['Lady de Rothschild'],1,0,2,True,American-British
+112,Reid Weingarten,legal,Defense attorney who represented Epstein in 2008 plea deal,[],0,3,2,True,American
+113,David Blaine,celebrity,Magician; 5 black book numbers; performed at Epstein properties; mentioned by victims,['David Blaine White'],2,0,2,True,American
+114,Joseph Recarey,legal,Lead Palm Beach detective on the Epstein case; deceased,['Joe Recarey'],0,5,2,False,American
+115,Clare Hazell-Iveagh,socialite,British socialite listed in Epstein's black book,['Countess of Iveagh'],1,0,2,True,British
+116,Peggy Siegal,socialite,NYC publicist who helped Epstein reenter society post-conviction,[],1,0,2,True,American
+117,Tom Barrack,business,Colony Capital founder; U.S. Ambassador to Turkey; 544 EFTA mentions; flew on Epstein aircraft; direct email correspondence,"['Thomas Joseph Barrack Jr.', 'Thomas J. Barrack']",1,0,2,True,American
+118,Sarah Ransome,other,Epstein survivor and author of 'Silenced No More',[],0,7,2,False,South African
+119,Kevin Maxwell,socialite,Ghislaine Maxwell's brother; son of Robert Maxwell,[],2,0,2,True,British
+120,Paul M. Daugerdas,associate,Defendant in the case,[],0,12,2,False,
+121,David Parse,associate,Defendant who filed a Motion For Judgment Of Acquittal Pursuant To Rule 29,[],0,7,2,False,
+122,CLAUDIUS ENGLISH,associate,Defendant accused of sex trafficking a minor,[],0,13,2,False,
+123,TODD BLANCHE,associate,Deputy Attorney General (unrelated to the main content),[],0,3,2,False,
+124,Peter Skinner,associate,Attorney at Boies Schiller representing Virginia Roberts,[],0,2,2,False,
+125,Elizabeth Stein,associate,Victim of Jeffrey Epstein and Ghislaine Maxwell,[],0,6,2,False,
+126,Medical Examiner,associate,Performed the autopsy on Epstein,[],0,9,2,False,
+127,Ellen Brockman,associate,Attorney,[],0,2,2,False,
+128,a retired federal judge,associate,proposed monitor for the Defendant's assets,[],0,4,2,False,
+129,TODD A. SPODEK,associate,Counsel for Jury Number 50,[],0,3,2,False,
+130,Anil Ambani,business,Indian billionaire who served as intermediary between PM Modi and Epstein,['Anil Dhirubhai Ambani'],0,0,2,False,Indian
+131,Amir Elichai,business,Carbyne co-founder; Unit 8200 veteran; Epstein-funded 911 surveillance tech,[],0,0,2,False,Israeli
+132,Lady Robin Innes-Ker,associate,British aristocrat; flew with Ghislaine and Kevin Maxwell on Epstein's jet,"['Lady Robin Innes Ker', 'Katherine Innes-Ker']",2,0,2,False,British
+133,Ben Goertzel,academic,AGI researcher; received Epstein salary and OpenCog funding; proposed $3M 'robot toddler' project,['Benjamin Goertzel'],0,1,2,False,Brazilian-American
+134,Itamar Arel,academic,UT professor; developed Epstein-funded facial recognition tech; co-proposed 'robot toddler' project,[],0,1,2,False,Israeli-American
+135,Reid Hoffman,business,"LinkedIn co-founder; hosted 2015 dinner with Epstein, Musk, Zuckerberg; visited island",[],0,1,1,False,American
+136,Alison Moe,legal,Lead prosecutor in the Ghislaine Maxwell trial,[],0,3,1,False,American
+137,Joi Ito,academic,Former MIT Media Lab director who resigned over Epstein donations,['Joichi Ito'],1,1,1,False,Japanese-American
+138,Seth Lloyd,academic,MIT professor who accepted Epstein donations,[],0,0,1,False,American
+139,Gerald Lefcourt,legal,Epstein defense attorney who wrote controversial letter to prosecutors,[],2,1,1,False,American
+140,Theresa Trzaskoma,associate,Person who had a discussion with Brune about Juror No. 1,[],0,4,1,False,
+141,Mr. Robertson,associate,defendant,[],0,13,1,False,
+142,Ms. Edelstein,associate,witness,[],0,5,1,False,
+143,Scotty David,associate,juror in Ghislaine Maxwell trial,[],0,2,1,False,
+144,Heriberto Tellez,associate,Warden of the Metropolitan Detention Center,[],0,3,1,False,
+145,Dr. Park Dietz,associate,Defense expert witness,[],0,8,1,False,
+146,MICHAEL THOMAS,associate,Defendant,[],0,5,1,False,
+147,Mr. Tein,associate,Examining attorney,[],0,2,1,False,
+148,David Perry QC,associate,Author of the expert opinion on extradition law,[],0,3,1,False,
+149,Arthur L. Aidala,associate,Substitute/Additional counsel for Ghislaine Maxwell/Defendant-Appellant,[],0,3,1,False,
+150,Patrick J. Smith,associate,Attorney for Jordana H. Feldman,[],0,3,1,False,
+151,Michael E. Horowitz,associate,DOJ Inspector General,[],0,3,1,False,
+152,parties involved in the case,associate,recipients of protected material,[],0,3,1,False,
+153,Mr. Vega,associate,witness,[],0,2,1,False,
+154,Steven Sinofsky,business,Former Microsoft Windows president who sought Epstein's advice on exit terms,[],0,0,1,False,American
+155,Karyna Shuliak,associate,Epstein's girlfriend; $631K in tuition payments; Columbia dental school admission via donation pressure,[],0,0,1,False,Belarusian
+156,Jim Worden,associate,Flew with Epstein's defense attorney Gerald Lefcourt during NPA negotiations,[],3,0,1,False,
+157,Steve Scully,associate,Pilot of Epstein's private aircraft,['Steve Scully (pilot)'],0,0,0,True,American
+158,Emmy Tayler,associate,Personal assistant to Ghislaine Maxwell,['Emmy Taylor'],0,0,0,True,British
+159,Richard Kahn,associate,Epstein estate co-executor; subpoenaed for House Oversight deposition (Feb 2026),[],0,1,0,True,American
+160,Shelley Lewis,associate,Television producer in Epstein's social network,[],0,0,0,True,American
+161,Rosie McGoldrick,associate,Property manager for Epstein's NYC townhouse,[],0,0,0,True,American
+162,Miles Alexander,associate,Attorney listed in Epstein's contact network,[],0,0,0,True,American
+163,Tony Blair,politician,Former Prime Minister of the United Kingdom,['Anthony Charles Lynton Blair'],0,0,0,True,British
+164,Andrew Cuomo,politician,Former Governor of New York,[],0,0,0,True,American
+165,John Kerry,politician,Former U.S. Secretary of State; U.S. Senator,['John Forbes Kerry'],0,0,0,True,American
+166,Chris Dodd,politician,Former U.S. Senator from Connecticut,['Christopher John Dodd'],0,0,0,True,American
+167,David Koch,business,Billionaire industrialist; co-owner of Koch Industries,['David Hamilton Koch'],0,0,0,True,American
+168,Ed Tuttle,politician,Architect and hotel designer in Epstein's network,['Edward Tuttle'],0,0,0,True,American
+169,Robert Menendez,politician,Former U.S. Senator from New Jersey,['Bob Menendez'],0,0,0,True,American
+170,Burt Minkoff,politician,Listed contact in Epstein's black book,[],0,0,0,True,American
+171,Alejandra Villarreal,socialite,Social contact listed in Epstein's black book,[],0,0,0,True,Mexican
+172,Steve Bannon,business,Former White House Chief Strategist; media executive,['Stephen Kevin Bannon'],0,0,0,False,American
+173,Rupert Murdoch,business,Media mogul; founder of News Corp and Fox Corporation,['Keith Rupert Murdoch'],0,0,0,True,American
+174,Richard Branson,business,Founder of Virgin Group,['Sir Richard Charles Nicholas Branson'],0,1,0,True,British
+175,Sergey Brin,business,Co-founder of Google,[],0,1,0,True,American
+176,Conrad Black,business,Media baron; former owner of the Daily Telegraph,['Lord Black of Crossharbour'],0,0,0,True,Canadian-British
+177,Vic Rasheed,business,Real estate developer in Epstein's contact network,[],0,0,0,True,American
+178,JP Morgan (Institutional),business,Bank that maintained Epstein accounts until 2013,[],0,0,0,False,American
+179,Deutsche Bank (Institutional),business,Bank that took on Epstein after JP Morgan; fined $150M,[],0,0,0,False,German
+180,Prince Michael of Kent,royalty,Member of the British Royal Family,[],0,0,0,True,British
+181,Mohammed bin Salman,royalty,Crown Prince of Saudi Arabia,['MBS'],0,0,0,False,Saudi
+182,Prince Albert of Monaco,royalty,Sovereign Prince of Monaco,['Albert II'],0,0,0,True,Monegasque
+183,Prince Pavlos of Greece,royalty,Crown Prince of Greece (in exile),['Crown Prince Pavlos'],0,0,0,True,Greek
+184,Courtney Love,celebrity,Rock musician (Hole); 3 black book numbers; publicly warned about Epstein/Weinstein circles,['Courtney Michelle Love'],0,0,0,True,American
+185,Mick Jagger,celebrity,Rolling Stones frontman; 4 black book numbers; photographed with Epstein and Clinton,['Sir Michael Philip Jagger'],0,0,0,True,British
+186,Alec Baldwin,celebrity,Actor; 4 black book numbers; denied knowing Epstein,['Alexander Rae Baldwin III'],0,0,0,True,American
+187,Ralph Fiennes,celebrity,British actor; 2 black book numbers; named in unsealed documents without allegations,['Ralph Nathaniel Twisleton-Wykeham-Fiennes'],0,0,0,True,British
+188,Dustin Hoffman,celebrity,Actor; 1 black book number (page 26); no allegations,[],0,0,0,True,American
+189,Bruce Willis,celebrity,Action film star; 2 black book numbers; named in unsealed documents without allegations,['Walter Bruce Willis'],0,0,0,True,American
+190,Itzhak Perlman,celebrity,Virtuoso violinist; 2 black book numbers (page 77); no allegations,[],0,0,0,True,Israeli-American
+191,Mike Wallace,celebrity,60 Minutes journalist; 2 black book numbers; accuser testified meeting him with Epstein; died 2012,['Myron Leon Wallace'],0,0,0,True,American
+192,Chelsea Handler,celebrity,Comedian who attended dinner at Epstein mansion post-conviction,[],0,0,0,False,American
+193,Kenneth Starr,legal,Former Solicitor General; Epstein defense attorney,['Ken Starr'],0,0,0,False,American
+194,Robert Mueller,legal,Former FBI Director during initial Epstein investigation,['Robert Swan Mueller III'],0,0,0,False,American
+195,Cy Vance,legal,Former Manhattan DA whose office sought to lower Epstein's sex offender status,['Cyrus Roberts Vance Jr.'],0,0,0,False,American
+196,Barry Krischer,legal,Former Palm Beach State Attorney criticized for handling of Epstein case,[],0,0,0,False,American
+197,Michael Reiter,legal,Former Palm Beach Police Chief who investigated Epstein,[],0,0,0,False,American
+198,Geoffrey Berman,legal,Former U.S. Attorney who indicted Epstein in 2019,[],0,0,0,False,American
+199,Laura Menninger,legal,Lead defense attorney for Ghislaine Maxwell,[],0,2,0,False,American
+200,Martin Weinberg,legal,Epstein defense attorney in 2019 federal case,[],0,0,0,False,American
+201,Marvin Minsky,academic,AI pioneer named in Giuffre court filings; deceased,[],0,0,0,False,American
+202,George Church,academic,Harvard geneticist who received Epstein funding,[],0,0,0,False,American
+203,Martin Nowak,academic,Harvard professor whose program received $6.5M from Epstein,[],0,0,0,False,Austrian-American
+204,Lisa Randall,academic,Harvard physicist who attended science conference on Epstein island,[],0,0,0,False,American
+205,Robert Trivers,academic,Evolutionary biologist who received Epstein research funding,[],0,0,0,False,American
+206,Danny Hillis,academic,Computer scientist who connected Epstein with MIT,['W. Daniel Hillis'],0,1,0,True,American
+207,Robert Maxwell,military-intelligence,Ghislaine's father; media mogul; suspected intelligence connections,['Jan Ludvik Hyman Binyamin Hoch'],0,0,0,False,British
+208,Ari Ben-Menashe,military-intelligence,Former Israeli intel officer who made claims about Epstein ties,[],0,0,0,False,Israeli
+209,William Barr,legal,U.S. Attorney General when Epstein died in federal custody,[],0,1,0,False,American
+210,Donald Barr,academic,Dalton School headmaster who hired young Epstein as a teacher,[],0,0,0,False,American
+211,Isabel Maxwell,socialite,Ghislaine Maxwell's sister; tech entrepreneur,[],0,0,0,True,British-American
+212,Christine Maxwell,socialite,Ghislaine Maxwell's sister; tech entrepreneur,[],0,1,0,True,British-American
+213,Courtney Wild,other,Epstein victim who challenged the 2008 plea deal in court,[],0,0,0,False,American
+214,Demi Moore,celebrity,Actress; 2 black book numbers; no allegations,['Demi Gene Guynes'],0,0,0,True,American
+215,Michael Jackson,celebrity,King of Pop; 3 black book numbers; photographed at event with Epstein; died 2009,['King of Pop'],0,0,0,True,American
+216,Jean-Georges Vongerichten,other,Celebrity chef listed in Epstein's black book,[],0,0,0,True,French-American
+217,Alan Grubman,legal,Entertainment attorney listed in Epstein's black book,['Allen Grubman'],0,0,0,True,American
+218,Steven Spielberg,celebrity,Filmmaker; 3 black book numbers; name-dropped by Epstein but no direct allegations,[],0,0,0,True,American
+219,Jean-Marie Le Pen,politician,French far-right politician; 2 black book numbers; daughter Marine cited 88 times in EFTA files; died 2026,[],0,0,0,True,French
+220,David Copperfield,celebrity,Illusionist; 5 black book numbers; Giuffre testified he appeared aware of Epstein's conduct,['David Seth Kotkin'],0,2,0,True,American
+221,Tony Randall,celebrity,Actor (The Odd Couple); 2 black book numbers; died 2004; no allegations,['Arthur Leonard Rosenberg'],0,0,0,True,American
+222,Minnie Driver,celebrity,Actress; 1 black book number (page 15); minimal entry; no allegations,['Amelia Fiona Jessica Driver'],0,0,0,True,British-American
+223,Bob Weinstein,business,Film producer; 4 black book numbers; brother of Harvey Weinstein; no Epstein-related allegations,['Robert Weinstein'],0,0,0,True,American
+224,Harvey Weinstein,business,Film producer; 5 black book numbers; convicted rapist in separate cases; parallel predatory patterns noted,[],0,1,0,True,American
+225,Phil Collins,celebrity,Genesis frontman; 3 black book numbers; no allegations,['Philip David Charles Collins'],0,0,0,True,British
+226,Carly Simon,celebrity,Singer-songwriter; 3 black book numbers; Martha's Vineyard social overlap; sister also listed,[],0,0,0,True,American
+227,Bob Wright,business,Former NBC Universal CEO listed in Epstein's black book,['Robert Charles Wright'],0,0,0,True,American
+228,Peter Marino,other,Architect listed in Epstein's black book,[],0,0,0,True,American
+229,Vera Wang,business,Fashion designer listed in Epstein's black book,[],0,0,0,True,American
+230,Donna Karan,business,Fashion designer listed in Epstein's black book,[],0,0,0,True,American
+231,Simon Le Bon,celebrity,Musician listed in Epstein's black book,[],0,0,0,True,British
+232,Hasnat Khan,other,Heart surgeon listed in Epstein's black book,['Dr. Hasnat Khan'],0,0,0,True,British-Pakistani
+233,John Cleese,celebrity,Monty Python comedian; 2 black book numbers (page 11); no allegations,[],0,0,0,True,British
+234,Elizabeth Hurley,celebrity,Actress/model; 1 black book number (page 27); listed via London production company,['Liz Hurley'],0,0,0,True,British
+235,Larry Gagosian,business,Art dealer listed in Epstein's black book,[],0,0,0,True,American
+236,Michael Stroll,business,Business contact listed in Epstein's black book,[],0,0,0,True,American
+237,Philip Barden,associate,Personal assistant in Epstein's network,[],0,0,0,True,British
+238,Al Gore,politician,Former VP; 2 black book numbers; Giuffre testified meeting him at dinner but no wrongdoing alleged,['Albert Arnold Gore Jr.'],0,0,0,True,American
+239,David Rockefeller,business,Chase Manhattan chairman; 4 black book numbers; recruited Epstein to Trilateral Commission and Rockefeller University board; died 2017,[],0,1,0,True,American
+240,Evelyn de Rothschild,business,British financier listed in Epstein's black book; deceased,['Sir Evelyn Robert de Rothschild'],0,0,0,True,British
+241,Nelson Shanks,other,Portrait painter listed in Epstein's black book; deceased,[],0,0,0,True,American
+242,Paul Tudor Jones,business,Hedge fund manager listed in Epstein's black book,['Paul Tudor Jones II'],0,0,0,True,American
+243,Henry Kravis,business,Co-founder of KKR listed in Epstein's black book,['Henry Robert Kravis'],0,0,0,True,American
+244,Lloyd Blankfein,business,Former Goldman Sachs CEO listed in Epstein's black book,[],0,0,0,True,American
+245,Jimmy Cayne,business,Former Bear Stearns CEO; Epstein previously worked at Bear Stearns,['James Cayne'],0,0,0,True,American
+246,Alan Greenberg,business,Former Bear Stearns chairman who hired Epstein; deceased,['Ace Greenberg'],0,0,0,True,American
+247,Peter Brant,business,Newsprint magnate listed in Epstein's black book,[],0,0,0,True,American
+248,Arpad Busson,business,French financier listed in Epstein's black book,[],0,0,0,True,French
+249,Elle Macpherson,celebrity,Supermodel listed in Epstein's black book,['Eleanor Nancy Gow'],0,0,0,True,Australian
+250,Claudia Schiffer,celebrity,Supermodel listed in Epstein's black book,[],0,0,0,True,German
+251,Carol Alt,celebrity,Model and actress listed in Epstein's black book,[],0,0,0,True,American
+252,Joan Rivers,celebrity,Comedian listed in Epstein's black book; deceased,['Joan Alexandra Molinsky'],0,0,0,True,American
+253,Bob Colacello,other,Journalist and author listed in Epstein's black book,['Robert Colacello'],0,0,0,True,American
+254,William Astor,socialite,British peer listed in Epstein's black book,['4th Viscount Astor'],0,0,0,True,British
+255,David Manners,socialite,British aristocrat listed in Epstein's black book,['11th Duke of Rutland'],0,0,0,True,British
+256,Robert Gascoyne-Cecil,politician,British politician listed in Epstein's black book,"['Viscount Cranborne', '7th Marquess of Salisbury']",0,0,0,True,British
+257,Graydon Carter,other,Former Vanity Fair editor listed in Epstein's black book,[],0,0,0,True,Canadian-American
+258,David Remnick,other,New Yorker editor listed in Epstein's black book,[],0,0,0,True,American
+259,William Styron,other,Novelist listed in Epstein's black book; deceased,[],0,0,0,True,American
+260,Ghislaine Nogueras,socialite,Social contact listed in Epstein's black book,[],0,0,0,True,American
+261,Mandy Ellison,associate,Personal assistant listed in Epstein's black book,[],0,0,0,True,American
+262,Mark Getty,business,Co-founder of Getty Images listed in Epstein's black book,['Sir Mark Getty'],0,0,0,True,British-American
+263,Alberto Pinto,other,Interior designer listed in Epstein's black book; deceased,[],0,0,0,True,French
+264,Stavros Niarchos IV,socialite,Shipping heir listed in Epstein's black book,[],0,0,0,True,Greek
+265,Gianni Agnelli,business,Head of Fiat listed in Epstein's black book; deceased,['Giovanni Agnelli'],0,0,0,True,Italian
+266,Nat Rothschild,business,British financier listed in Epstein's black book,['Nathaniel Philip Rothschild'],0,0,0,True,British
+267,Jessica de Rothschild,socialite,Actress listed in Epstein's black book,[],0,0,0,True,British
+268,Vittorio Assaf,business,Restaurateur listed in Epstein's black book,[],0,0,0,True,Italian-American
+269,Mary Erdoes,business,JPMorgan executive referenced in USVI lawsuit,[],0,0,0,False,American
+270,Jamie Dimon,business,JPMorgan CEO deposed in Epstein-related lawsuit,['James Dimon'],0,0,0,False,American
+271,John Duffy,business,Former JPMorgan banker named in Epstein lawsuits,[],0,0,0,False,American
+272,Rosemary Vrablic,business,Deutsche Bank private banker who managed Epstein account,[],0,0,0,False,American
+273,Paul Morris,legal,Palm Beach detective on original Epstein case,[],0,0,0,False,American
+274,Marie Villafana,legal,Lead federal prosecutor in original Epstein plea deal,['A. Marie Villafana'],0,2,0,False,American
+275,Jay Lefkowitz,legal,Epstein defense attorney during plea negotiations,[],0,1,0,False,American
+276,Guy Lewis,legal,Former U.S. Attorney during early Epstein investigation,[],0,0,0,False,American
+277,Alison Nathan,legal,Federal judge who presided over Maxwell trial; sentenced her to 20 years,[],0,0,0,False,American
+278,Richard Berman,legal,Judge who denied Epstein's bail in 2019 federal case,[],0,2,0,False,American
+279,Loretta Preska,legal,Judge who ordered unsealing of Epstein-related documents,[],0,1,0,False,American
+280,Kenneth Marra,legal,Judge who ruled prosecutors violated victims' rights in plea deal,[],0,1,0,False,American
+281,Denise George,legal,Former USVI AG who sued JPMorgan over Epstein ties; fired after filing,[],0,0,0,False,American
+282,Mark Bostick,associate,Construction executive listed in Epstein's black book,[],0,0,0,True,American
+283,Andrea Mitrovich,associate,Personal contact listed in Epstein's black book,[],0,0,0,True,American
+284,Sean Koo,business,Financial professional listed in Epstein's black book,[],0,0,0,True,American
+285,Robert Meister,business,Insurance executive listed in Epstein's black book,[],0,0,0,True,American
+286,Sheldon Adelson,business,Casino magnate listed in Epstein's black book; deceased,[],0,0,0,True,American
+287,Steven Mnuchin,politician,Former Treasury Secretary listed in Epstein's black book,[],0,0,0,True,American
+288,Jeffrey Sachs,academic,Columbia economist who received Epstein funding,[],0,0,0,False,American
+289,Robert Thurman,academic,Columbia professor listed in Epstein's black book,[],0,0,0,True,American
+290,Steven Pinker,academic,Harvard psychologist who had limited Epstein interactions,[],0,0,0,False,Canadian-American
+291,L. Rafael Reif,academic,Former MIT president during Epstein donation scandal,[],0,0,0,False,Venezuelan-American
+292,Drew Faust,academic,Former Harvard president during period of Epstein donations,['Drew Gilpin Faust'],0,0,0,False,American
+293,Janusz Banasiak,associate,Epstein's chauffeur at Palm Beach estate,[],0,1,0,True,Polish-American
+294,Tony Figueroa,associate,Named in Palm Beach Police reports as bringing girls to Epstein,[],0,1,0,False,American
+295,Timothy Donovan,legal,School district counsel who aided Epstein investigation,[],0,0,0,False,American
+296,Cecile de Jongh,associate,Former USVI governor's wife who worked for Epstein,[],0,0,0,False,American
+297,John de Jongh,politician,Former USVI Governor; wife worked for Epstein,[],0,0,0,False,American
+298,Kevin Thompson,associate,IT consultant who worked for Epstein,[],0,0,0,True,American
+299,Rinaldo Rizzo,other,Former Dubin butler; Maxwell trial witness,[],0,1,0,False,American
+300,Miles Taylor,associate,Contact listed in Epstein's black book,[],0,0,0,True,American
+301,Teresa Helm,other,Epstein survivor who spoke publicly about abuse in New Mexico,[],0,0,0,False,American
+302,Jennifer Araoz,other,Epstein accuser who was recruited as a high school student,[],0,0,0,False,American
+303,Carolyn Andriano,other,Key witness at Maxwell trial; abused from age 14,['Minor Victim 4 (Maxwell Trial)'],0,1,0,False,American
+304,Johanna Sjoberg,other,Epstein accuser who provided deposition about New York mansion,[],0,1,0,False,American
+305,Michelle Licata,other,Early Epstein accuser who cooperated with Palm Beach investigation,[],0,0,0,False,American
+306,Alicia Arden,other,Filed early police report against Epstein in 1997,[],0,0,0,False,American
+307,Glen Ritchie,associate,Contact listed in Epstein's black book,[],0,0,0,True,British
+308,Jean-Jacques Galtier,other,French dentist listed in Epstein's black book,[],0,0,0,True,French
+309,Eric Fischl,other,Painter listed in Epstein's black book,[],0,0,0,True,American
+310,Pat Benatar,celebrity,Rock musician listed in Epstein's black book,['Patricia Mae Andrzejewski'],0,0,0,True,American
+311,Ralph Nader,other,Consumer advocate listed in Epstein's black book,[],0,0,0,True,American
+312,Greg Norman,celebrity,Professional golfer listed in Epstein's black book,['Gregory John Norman'],0,0,0,True,Australian
+313,Henry Rosovsky,academic,Former Harvard dean on Epstein Foundation advisory board,[],0,0,0,False,American
+314,Alan Stone,academic,Harvard Law professor on Epstein Foundation advisory board,[],0,0,0,False,American
+315,Adriel Bettelheim,other,Journalist listed in Epstein's black book,[],0,0,0,True,American
+316,Kellyanne Conway,politician,Political consultant listed in Epstein's black book,['Kellyanne Elizabeth Fitzpatrick'],0,0,0,True,American
+317,Doug Hammond,associate,Appeared in Epstein's flight logs,[],0,0,0,False,American
+318,Mark Lloyd,associate,Listed in Epstein's black book and flight logs,[],0,0,0,True,American
+319,Shelley Harrison,socialite,Social contact listed in Epstein's black book,[],0,0,0,True,American
+320,Peter Dubinin,associate,Contact listed in Epstein's black book,[],0,0,0,True,American
+321,Alberto Vilar,business,Investor listed in Epstein's black book,[],0,0,0,True,Cuban-American
+322,David Yarovesky,associate,Appeared in Epstein's flight logs,[],0,0,0,False,American
+323,Gary Roxburgh,associate,Contact listed in Epstein's black book,[],0,0,0,True,American
+324,Hyatt Bass,socialite,Socialite listed in Epstein's black book,[],0,0,0,True,American
+325,Robert Bass,business,Billionaire investor listed in Epstein's black book,['Robert Muse Bass'],0,0,0,True,American
+326,Mort Janklow,other,Literary agent listed in Epstein's black book,['Morton Lloyd Janklow'],0,0,0,True,American
+327,Conrad Hilton,business,Hotel heir listed in Epstein's black book,['Barron Hilton'],0,0,0,True,American
+328,Wilbur Ross,business,Former Commerce Secretary listed in Epstein's black book,['Wilbur Louis Ross Jr.'],0,0,0,True,American
+329,John Catsimatidis,business,Billionaire businessman listed in Epstein's black book,[],0,0,0,True,American
+330,Ron Burkle,business,Billionaire investor listed in Epstein's black book and flight logs,['Ronald Wayne Burkle'],0,0,0,True,American
+331,Nacho Figueras,celebrity,Polo player listed in Epstein's black book,['Ignacio Figueras'],0,0,0,True,Argentine
+332,Jeffrey Jones,business,Business contact listed in Epstein's black book,[],0,0,0,True,American
+333,Paul Harris,associate,Contact listed in Epstein's black book,[],0,0,0,True,British
+334,Thierry Despont,other,Architect who worked on Epstein properties,[],0,0,0,True,French-American
+335,Baron Jean de Gunzburg,socialite,French aristocrat listed in Epstein's black book,[],0,0,0,True,French
+336,Jean Pierre Bourgeois,other,French contact listed in Epstein's black book,[],0,0,0,True,French
+337,Giuseppe Cipriani,business,Restaurateur listed in Epstein's black book,[],0,0,0,True,Italian
+338,Alix de Ligne,socialite,Belgian princess listed in Epstein's black book,['Princess Alix de Ligne'],0,0,0,True,Belgian
+339,Francois Levy,business,Business contact listed in Epstein's black book,[],0,0,0,True,French
+340,James Goldston,other,Journalist listed in Epstein's black book,[],0,0,0,True,British
+341,Ellen Spencer,socialite,Social contact listed in Epstein's black book,[],0,0,0,True,American
+342,Ehud Olmert,politician,Former Israeli Prime Minister listed in Epstein's black book,[],0,0,0,True,Israeli
+343,Wendi Deng Murdoch,socialite,Businesswoman listed in Epstein's black book,['Wendi Deng'],0,0,0,True,Chinese-American
+344,Michael Genovese,legal,Attorney listed in Epstein's black book,[],0,0,0,True,American
+345,Tom Ford,business,Fashion designer listed in Epstein's black book,['Thomas Carlyle Ford'],0,0,0,True,American
+346,Michael Cherry,associate,Contact listed in Epstein's black book,[],0,0,0,True,American
+347,Ian Maxwell,socialite,Ghislaine Maxwell's brother; public defender of her case,[],0,0,0,True,British
+348,Bob Denham,legal,Attorney listed in Epstein's black book,['Robert Denham'],0,0,0,True,American
+349,Michael Wolff,other,Journalist and author listed in Epstein's black book,[],0,1,0,True,American
+350,Charles Gasparino,other,Financial journalist listed in Epstein's black book,['Charlie Gasparino'],0,0,0,True,American
+351,Riccardo Mazzucchelli,socialite,Italian businessman listed in Epstein's black book,[],0,0,0,True,Italian
+352,Ivana Trump,socialite,Businesswoman listed in Epstein's black book; deceased,['Ivana Marie Zelnickova'],0,0,0,True,Czech-American
+353,Blaine Trump,socialite,Socialite listed in Epstein's black book,[],0,0,0,True,American
+354,Robert Trump,business,Businessman listed in Epstein's black book; deceased,[],0,0,0,True,American
+355,Adam Shand Kydd,socialite,Socialite listed in Epstein's black book,[],0,0,0,True,British
+356,Christopher Mason,other,Journalist listed in Epstein's black book,[],0,0,0,True,British-American
+357,Andrew Farkas,business,"Billionaire real estate investor; co-owned USVI marina with Epstein; ~2,000 emails over a decade; prison visitor",['Andrew L. Farkas'],0,0,0,True,American
+358,Michael Kennedy,legal,Attorney listed in Epstein's black book,[],0,0,0,True,American
+359,Bernard Arnault,business,LVMH chairman listed in Epstein's black book,[],0,0,0,True,French
+360,Nicolas Berggruen,business,Investor listed in Epstein's black book,[],0,0,0,True,German-American
+361,David Martinez,business,Financier listed in Epstein's black book,[],0,0,0,True,Mexican
+362,Carl Icahn,business,Billionaire investor listed in Epstein's black book,[],0,0,0,True,American
+363,Stephen Schwarzman,business,Blackstone co-founder listed in Epstein's black book,['Steve Schwarzman'],0,0,0,True,American
+364,Ken Griffin,business,Citadel founder listed in Epstein's black book,['Kenneth Cordele Griffin'],0,0,0,True,American
+365,Michael Steinhardt,business,Hedge fund manager listed in Epstein's black book,[],0,0,0,True,American
+366,Adnan Khashoggi,business,Saudi arms dealer listed in Epstein's black book; deceased,[],0,0,0,True,Saudi
+367,Wafic Said,business,Billionaire businessman listed in Epstein's black book,[],0,0,0,True,Syrian-Saudi
+368,Prince Bandar bin Sultan,royalty,Former Saudi Ambassador to U.S. listed in Epstein's black book,['Bandar Bush'],0,0,0,True,Saudi
+369,Gerald Grosvenor,socialite,6th Duke of Westminster listed in Epstein's black book; deceased,['6th Duke of Westminster'],0,0,0,True,British
+370,Charles Spencer,socialite,9th Earl Spencer listed in Epstein's black book,['9th Earl Spencer'],0,0,0,True,British
+371,Guy Dellal,business,Property developer listed in Epstein's black book,[],0,0,0,True,British
+372,Sophie Dahl,celebrity,Model and author listed in Epstein's black book,[],0,0,0,True,British
+373,James Stunt,socialite,Businessman listed in Epstein's black book,[],0,0,0,True,British
+374,Jacob Rothschild,business,Banker listed in Epstein's black book; deceased,['4th Baron Rothschild'],0,0,0,True,British
+375,Charles Delevingne,socialite,Property developer listed in Epstein's black book,[],0,0,0,True,British
+376,Lady Victoria Hervey,socialite,British socialite who attended Epstein events,[],0,0,0,True,British
+377,Lord Campbell-Gray,socialite,British aristocrat listed in Epstein's black book,[],0,0,0,True,British
+378,Carla Bruni,celebrity,Model and former First Lady of France listed in Epstein's black book,['Carla Bruni-Sarkozy'],0,0,0,True,Italian-French
+379,Richard Plepler,business,Former HBO CEO listed in Epstein's black book,[],0,0,0,True,American
+380,Peter Cook,other,Architect listed in Epstein's black book,[],0,0,0,True,American
+381,Strauss Zelnick,business,Take-Two Interactive CEO listed in Epstein's black book,[],0,0,0,True,American
+382,David Geffen,business,Media mogul listed in Epstein's black book,[],0,0,0,True,American
+383,Barry Diller,business,Media executive listed in Epstein's black book,[],0,0,0,True,American
+384,Diane von Furstenberg,business,Fashion designer listed in Epstein's black book,['DVF'],0,0,0,True,Belgian-American
+385,Peter Thiel,business,Venture capitalist listed in Epstein's black book,[],0,1,0,True,American
+386,Jeff Bezos,business,Amazon founder listed in Epstein's black book,['Jeffrey Preston Bezos'],0,0,0,True,American
+387,Anna Wintour,other,Vogue editor listed in Epstein's black book,['Dame Anna Wintour'],0,0,0,True,British-American
+388,Paul Allen,business,Microsoft co-founder; 3 black book numbers; died 2018; no allegations,[],0,0,0,True,American
+389,Carlos Slim,business,Billionaire listed in Epstein's black book,['Carlos Slim Helu'],0,0,0,True,Mexican
+390,Aerin Lauder,business,Estee Lauder executive; 3 black book numbers; NYC socialite circle overlap,[],0,0,0,True,American
+391,Albert Bryan Jr.,politician,USVI Governor who fired AG after JPMorgan Epstein lawsuit,[],0,0,0,False,American
+392,Lana Pozhidaeva,associate,Contact in Epstein's Eastern European network,[],0,0,0,True,Russian
+393,Tatiana Sorokina,associate,Contact listed in Epstein's black book,[],0,0,0,True,Russian
+394,Olga Kurylenko,celebrity,Actress listed in Epstein's black book,[],0,0,0,True,Ukrainian-French
+395,Helena Christensen,celebrity,Supermodel listed in Epstein's black book,[],0,0,0,True,Danish
+396,Linda Evangelista,celebrity,Supermodel listed in Epstein's black book,[],0,0,0,True,Canadian
+397,Stephanie Seymour,celebrity,Supermodel listed in Epstein's black book,[],0,0,0,True,American
+398,John Brockman,other,Literary agent who connected Epstein to scientists,[],0,0,0,True,American
+399,Katarina Witt,celebrity,Olympic figure skater listed in Epstein's black book,[],0,0,0,True,German
+400,Roberta Flack,celebrity,Grammy-winning singer; 2 black book numbers; no allegations,[],0,0,0,True,American
+401,Michael Colhoun,associate,Contact listed in Epstein's black book,[],0,0,0,True,British
+402,Juan Pablo Molyneux,other,Interior designer listed in Epstein's black book,[],0,0,0,True,Chilean
+403,Si Newhouse,business,Conde Nast chairman listed in Epstein's black book; deceased,['Samuel Irving Newhouse Jr.'],0,0,0,True,American
+404,Tom Hicks,business,Billionaire investor listed in Epstein's black book,['Thomas Ollis Hicks'],0,0,0,True,American
+405,Edouard Stern,business,French banker listed in Epstein's black book; deceased,[],0,0,0,True,French
+406,Peter Nygard,business,Fashion executive listed in Epstein's black book; later convicted,[],0,0,0,True,Canadian
+407,Amanda Brudenell-Bruce,socialite,Socialite listed in Epstein's black book,[],0,0,0,True,British
+408,Brian Roberts,business,Comcast CEO listed in Epstein's black book,[],0,0,0,True,American
+409,Sumner Redstone,business,Media mogul listed in Epstein's black book; deceased,['Sumner Murray Rothstein'],0,0,0,True,American
+410,Cosmo Fry,socialite,Socialite listed in Epstein's black book,[],0,0,0,True,British
+411,Prince Karim Aga Khan IV,royalty,Spiritual leader listed in Epstein's black book,['Aga Khan IV'],0,0,0,True,British-Portuguese
+412,Larry Ellison,business,Oracle co-founder listed in Epstein's black book,['Lawrence Joseph Ellison'],0,0,0,True,American
+413,Domenico Dolce,business,Fashion designer listed in Epstein's black book,[],0,0,0,True,Italian
+414,Valentino Garavani,business,Fashion designer listed in Epstein's black book,['Valentino'],0,0,0,True,Italian
+415,Donatella Versace,business,Fashion designer listed in Epstein's black book,[],0,0,0,True,Italian
+416,Elizabeth Kofman,other,Epstein victim and public advocate,[],0,0,0,False,American
+417,Rina Oh,other,Former model who publicly accused Epstein of assault,[],0,0,0,False,American
+418,Kate,other,Maxwell trial witness (pseudonym); abused from age 17,['Maxwell Trial Pseudonym'],0,0,0,False,British
+419,Jane,other,Maxwell trial witness (pseudonym); abused from age 14,['Maxwell Trial Pseudonym'],0,0,0,False,American
+420,Miles Alexander Tooby,associate,Property manager at Epstein's USVI island,[],0,0,0,False,American
+421,Karin Gustafson,associate,Modeling industry contact listed in Epstein's black book,[],0,0,0,True,Swedish
+422,Yana Evans,associate,Model scout at Epstein-funded MC2 agency,[],0,0,0,False,American
+423,Tony Bennett,celebrity,Singer listed in Epstein's black book; deceased,['Anthony Dominick Benedetto'],0,0,0,True,American
+424,Sting,celebrity,British musician (The Police); 3 black book numbers including wife and estate,['Gordon Matthew Thomas Sumner'],0,0,0,True,British
+425,Jools Holland,celebrity,Musician listed in Epstein's black book,['Julian Miles Holland'],0,0,0,True,British
+426,Helena Bonham Carter,celebrity,Actress listed in Epstein's black book,[],0,0,0,True,British
+427,Oscar de la Renta,business,Fashion designer listed in Epstein's black book; deceased,[],0,0,0,True,Dominican-American
+428,Iman,celebrity,Supermodel listed in Epstein's black book,['Iman Mohamed Abdulmajid'],0,0,0,True,Somali-American
+429,Cosima von Bulow,socialite,Socialite listed in Epstein's black book,['Cosima Pavoncelli'],0,0,0,True,American
+430,David Pottruck,business,Former Charles Schwab CEO listed in Epstein's black book,[],0,0,0,True,American
+431,Stephen Sills,other,Interior designer listed in Epstein's black book,[],0,0,0,True,American
+432,Mark Fisher,other,Architect listed in Epstein's black book; deceased,[],0,0,0,True,British
+433,Lenny Kravitz,celebrity,Musician listed in Epstein's black book,['Leonard Albert Kravitz'],0,0,0,True,American
+434,Bono,celebrity,Musician listed in Epstein's black book,['Paul David Hewson'],0,0,0,True,Irish
+435,Tim Summers,associate,Contact listed in Epstein's black book,[],0,0,0,True,American
+436,Francois Pinault,business,Kering CEO listed in Epstein's black book,['Francois-Henri Pinault'],0,0,0,True,French
+437,Bernie Ecclestone,business,Former Formula One chief listed in Epstein's black book,['Bernard Charles Ecclestone'],0,0,0,True,British
+438,Michael Fifer,associate,Contact listed in Epstein's black book,[],0,0,0,True,American
+439,Peter Gabriel,celebrity,Musician listed in Epstein's black book,[],0,0,0,True,British
+440,Alberto Mugrabi,business,Art collector listed in Epstein's black book,[],0,0,0,True,American
+441,Michael Dell,business,Dell Technologies founder listed in Epstein's black book,[],0,0,0,True,American
+442,Alfred Taubman,business,Real estate developer listed in Epstein's black book; deceased,[],0,0,0,True,American
+443,Eli Broad,business,Billionaire philanthropist listed in Epstein's black book; deceased,[],0,0,0,True,American
+444,Andrew Luster,associate,Max Factor heir listed in Epstein's black book; separately convicted,[],0,0,0,True,American
+445,Nicholas Gruenberg,business,Business contact listed in Epstein's black book,[],0,0,0,True,American
+446,David Lal,associate,Contact listed in Epstein's black book,[],0,0,0,True,American
+447,Jeffrey Fuller,associate,MC2 business associate connected to Epstein funding,[],0,0,0,False,American
+448,Linda Purl,celebrity,Actress listed in Epstein's black book,[],0,0,0,True,American
+449,Christie Brinkley,celebrity,Supermodel listed in Epstein's black book,[],0,0,0,True,American
+450,Mohamed Hadid,business,Real estate developer listed in Epstein's black book,[],0,0,0,True,Palestinian-American
+451,Robert De Niro,celebrity,Actor listed in Epstein's black book,[],0,0,0,True,American
+452,Jimmy Buffett,celebrity,Singer-songwriter listed in Epstein's black book; deceased,[],0,0,0,True,American
+453,Griffin Dunne,celebrity,Actor listed in Epstein's black book,[],0,0,0,True,American
+454,Ben Stiller,celebrity,Actor/filmmaker; 2 black book numbers; no allegations,['Benjamin Edward Meara Stiller'],0,0,0,True,American
+455,Jeff Koons,other,Artist listed in Epstein's black book,[],0,0,0,True,American
+456,Julian Schnabel,other,Artist and filmmaker listed in Epstein's black book,[],0,0,0,True,American
+457,Rande Gerber,business,Entrepreneur listed in Epstein's black book,[],0,0,0,True,American
+458,Cindy Crawford,celebrity,Supermodel listed in Epstein's black book,['Cynthia Ann Crawford'],0,0,0,True,American
+459,Richard Parsons,business,Former Citigroup chairman listed in Epstein's black book,[],0,0,0,True,American
+460,Ralph Lauren,business,Fashion designer listed in Epstein's black book,['Ralph Lifshitz'],0,0,0,True,American
+461,Steve Wynn,business,Casino mogul listed in Epstein's black book,['Stephen Alan Wynn'],0,0,0,True,American
+462,David Bowie,celebrity,Musician listed in Epstein's black book; deceased,['David Robert Jones'],0,0,0,True,British
+463,Karen Duffy,celebrity,Actress listed in Epstein's black book,[],0,0,0,True,American
+464,Maria Bartiromo,other,Financial journalist listed in Epstein's black book,[],0,0,0,True,American
+465,Andrew Stein,politician,Former NYC Council President listed in Epstein's black book,['Andrew Stein (NYC)'],0,0,0,True,American
+466,Lamine N'DiayeLee Plourde,associate,"Sender of the email, likely a mental health professional",[],0,0,0,False,
+467,"Ormond, Ray",associate,Recipient of the email,[],0,0,0,False,
+468,Hugh J. Hurwitz,associate,"Recipient of the email, potentially involved in oversight or management of the Federal Bureau of Prisons",[],0,0,0,False,
+469,J. Ray Ormond,associate,Regional Director Northeast Region,[],0,0,0,False,
+470,Lara Elizabeth Pomerantz,associate,Assistant United States Attorney,[],0,0,0,False,
+471,Lee Plourde,associate,BOP official being questioned by a journalist,[],0,0,0,False,
+472,ANDREW ROHRBACH,associate,Assistant United States Attorney,[],0,1,0,False,
+473,Charisma Edge Lamine,associate,Subject of discussion or investigation,[],0,0,0,False,
+474,James Petrucci,associate,Recipient of the email,[],0,1,0,False,
+475,Catherine Morgan Conrad,associate,Person who authored a note that became Court Exhibit 3,[],0,0,0,False,
+476,Ms. Conrad,associate,Witness/Juror being questioned,[],0,2,0,False,
+477,MS. BRUNE,associate,witness being deposed,[],0,9,0,False,
+478,MR. SHIECHTMAN,associate,attorney,[],0,0,0,False,
+479,"Jeffrey, J.",associate,"person whose relationship with the speaker is being kept secret, and someone who needs help with work",[],0,0,0,False,
+480,Juror Number 50,associate,juror who gave press interviews after the verdict,[],0,2,0,False,
+481,Ms. Trizaskoma,associate,team member involved in discussions about the juror,[],0,0,0,False,
+482,Unknown,associate,The names of individuals are not specified in the given snippet,[],0,0,0,False,
+483,ALEXANDER ROSSMILLER,associate,Assistant US Attorney,[],0,0,0,False,
+484,Judge Pauley,associate,The judge presiding over the trial,[],0,1,0,False,
+485,Will,associate,Someone credited by the author for the use of 'BOH!',[],0,0,0,False,
+486,[redacted],associate,Wall Street Journal reporter investigating Jeffrey Epstein's death,[],0,0,0,False,
+487,VI THOMAS,associate,Possibly the officer or agent who handled the query,[],0,0,0,False,
+488,Susan Elizabeth Brune,associate,counsel for David Farse and conversed with witness about Juror No. 1,[],0,1,0,False,
+489,N'Diaye Skipper-Scott,associate,Warden of the Metropolitan Correctional Center,[],0,0,0,False,
+490,Ms. Jane,associate,alleged victim in the case,[],0,0,0,False,
+491,Michael Carvajal,associate,Recipient of the email,[],0,0,0,False,
+492,MR. GAIR,associate,Attorney/Prosecutor,[],0,0,0,False,
+493,AJN,associate,Judge or presiding judicial officer in case S2 20 Cr. 330,[],0,0,0,False,
+494,Sonya Thompson,associate,Recipient of the email chain and potentially responsible for handling media attention,[],0,0,0,False,
+495,G.Tali Colon Meade,associate,Person making or receiving calls/interactions,[],0,0,0,False,
+496,A. Marie Villapania,associate,Assistant U.S. Attorney,[],0,0,0,False,
+497,Day Watch Operations Lieutenant,associate,Lieutenant with oversight of SHU operations,[],0,0,0,False,
+498,MORNING WATCH OPERATIONS LIEUTENANT,associate,"Supervisory officer on duty during the night of August 9-10, 2019",[],0,0,0,False,
+499,Lanna Belholovick,associate,"co-counsel or associated attorney, cc'd on the letter",[],0,0,0,False,
+500,Lilly Ann Sansbeez,associate,Attorney for Jeffrey Epstein,[],0,0,0,False,
+501,MORNING WATCH LIEUTENANT CAPTAIN,associate,Reviewing officer,[],0,0,0,False,
+502,William JULIÉ,associate,French lawyer providing expert opinion on extradition law,[],0,0,0,False,
+503,Tony,associate,The person who made the phone call,[],0,0,0,False,
+504,Paul A. Engel Mayer,associate,United States District Judge,[],0,0,0,False,
+505,[redacted] MD,associate,Medical provider examining and treating Jeffrey Epstein,[],0,0,0,False,
+506,Beef Knuckles,associate,Friend or acquaintance of the profile owner,[],0,0,0,False,
+507,Marti Licom-Vitale,associate,Recipient,[],0,0,0,False,
+508,None explicitly mentioned,associate,N/A,[],0,0,0,False,
+509,Mr. Parse,associate,individual involved in tax transactions,[],0,1,0,False,
+510,Ms.Villaflana,associate,Prosecutor in the USA v. Maxwell case,[],0,0,0,False,
+511,NYM,associate,Prison staff or identifier for the facility/staff member making log entries,[],0,0,0,False,
+512,Michael,associate,"Person taking or signing messages, potentially involved in social arrangements",[],0,0,0,False,
+513,"Inmate Reyes, Efrain",associate,Epstein's cellmate,[],0,0,0,False,
+514,Chief Psychologist,associate,Psychologist at MCC New York who evaluated Epstein,[],0,0,0,False,
+515,Schulte,associate,defendant,[],0,0,0,False,
+516,Hugh,associate,sender of the document/email,[],0,0,0,False,
+517,EVENING WATCH OPERATIONS LIEUTENANT,associate,Supervisory role reviewing checks,[],0,0,0,False,
+518,Jack A. Goldberger,associate,recipient of the letter and attorney for Jane Doe,[],0,1,0,False,
+519,Ms. Sophia Papapetru,associate,"Staff Attorney at MDC Brooklyn, Federal Bureau of Prisons",[],0,0,0,False,
+520,"Jordana (""Jordy"") H. Feldman",associate,Independent administrator of the Epstein Victims' Compensation Program and proposed movant,[],0,0,0,False,
+521,Eric,associate,"Mendilton's brother, who participated in social activities",[],0,0,0,False,
+522,Unknown/Not specified,associate,The individuals involved are not specified in the provided snippet,[],0,0,0,False,
+523,Jane Does,associate,Victim who filed an emergency petition alleging CVRA violations,[],0,1,0,False,
+524,Mr. Schoeman,associate,witness being deposed,[],0,1,0,False,
+525,CAPTAIN,associate,"Institution head, claimed not to have known about DVR issue until after Epstein's death",[],0,0,0,False,
+526,Operations Lieutenant,associate,Receives notifications about inmates on Suicide Watch,[],0,0,0,False,
+527,Leah Jean,associate,Myspace user conversing with Cledus McTavern,[],0,2,0,False,
+528,preston77,associate,MySpace user who commented on Leah Jean's profile,[],0,0,0,False,
+529,Colleen McMahon,associate,United States District Judge,[],0,3,0,False,
+530,Dr. Lisa M. Rocchio,associate,Proposed expert witness for the prosecution,[],0,1,0,False,
+531,"[b(6), b(7)(C)]",associate,Senior Editor and writer at The Daily Beast,[],0,0,0,False,
+532,Lee,associate,"Recipient of the email, likely a colleague or supervisor",[],0,0,0,False,
+533,Michael Greco,associate,U.S. Marshal,[],0,0,0,False,
+534,PIMP JUICE,associate,Myspace profile owner,[],0,0,0,False,
+535,Mr. Pagliucca,associate,Attorney representing G Maxwell,[],0,0,0,False,
+536,Mr. Jack Goldberger,associate,Epstein's defense attorney,[],0,0,0,False,
+537,Juror number one,associate,subject of discussion regarding identity and background,[],0,0,0,False,
+538,"Edelstein, R. S.",associate,Witness being deposed,[],0,0,0,False,
+539,CEOLILIA STEEN,associate,Sender of packages to various recipients,[],0,0,0,False,
+540,Ms. Davis,associate,Prosecutor arguing against defendant's claim,[],0,2,0,False,
+541,Unknown/Redacted,associate,Individual associated with the admission information,[],0,0,0,False,
+542,Cecilia,associate,Caller who left a message,[],0,0,0,False,
+543,Andrew FLINKELMAN,associate,Liaison Magistrate at the Embassy of the United States of America in Paris,[],0,0,0,False,
+544,Judge Netman,associate,District Court Judge,[],0,0,0,False,
+545,Ms. Sterntheim,associate,Witness who testified,[],0,0,0,False,
+546,Larry Morrisson,associate,Sender of a package to Jeffrey Epstein,[],0,0,0,False,
+547,Dr. Elizabeth F. Loftus,associate,Defense expert witness,[],0,0,0,False,
+548,JONATHAN,associate,Person involved in flight training or checkout,[],0,0,0,False,
+549,(b) (7) (E),associate,Referring Officer and inspecting officer (identities redacted),[],0,0,0,False,
+550,Mike,associate,Myspace user/profile owner,[],0,0,0,False,
+551,Ugly Ken Hart,associate,"The person managing or commenting on the Myspace page, likely a member of the band The UglyHarts",[],0,3,0,False,
+552,Ken Hart,associate,sender of the message,[],0,1,0,False,
+553,*D - CBP Officer,associate,The CBP officer who referred Epstein for inspection,[],0,0,0,False,
+554,Kelly Bovino Umekubo,associate,Witness who failed to comply with subpoena,[],0,1,0,False,
+555,DOJ Redaction,associate,"The individual whose personal information is contained in the document, likely the defendant in the case 20 Cr. 330 (AJN)",[],0,2,0,False,
+556,Joe,associate,Recipient of telephone messages,[],0,0,0,False,
+557,Noel Allx,associate,Correctional Officer who worked with Thomas and also failed to conduct rounds,[],0,0,0,False,
+558,James C. Wills,associate,"Former Acting Assistant Director, Reentry Services Division who appointed the team to conduct the psychological reconstruction",[],0,0,0,False,
+559,Orly Paris,associate,Destination/Airport,[],0,0,0,False,
+560,Katie,associate,Commenter and possibly a friend,[],0,0,0,False,
+561,Chels-ifer,associate,MySpace friend,[],0,0,0,False,
+562,Laurie Edelstein,associate,Attorney or representative submitting multiple letters to Judge Pauley,[],0,0,0,False,
+563,Bill Cosby,associate,comparator high-profile defendant,[],0,1,0,False,
+564,*F - CBP Officer,associate,The CBP officer who handled the inspection,[],0,0,0,False,
+565,Casey/Caroline,associate,witness who testified at trial,[],0,0,0,False,
+566,Tom,associate,Subject of discussion in one of the messages,[],0,0,0,False,
+567,David R. Ridgway,associate,Pilot,[],0,0,0,False,
+568,Sophie Birdle-Hakim,associate,Passenger,[],0,0,0,False,
+569,Mr. Sloman,associate,Likely another defense attorney or representative for Epstein,[],0,0,0,False,
+570,Electronics Technician,associate,Staff member responsible for maintaining the security camera system at MCC New York,[],0,0,0,False,
+571,Caliendo,associate,Individual involved in communications or events related to Epstein,[],0,0,0,False,
+572,Colon,associate,Visitor/Contact person,[],0,0,0,False,
+573,[redacted] RN,associate,Medical Provider,[],0,0,0,False,
+574,Tim,associate,"Sender of the email, likely a high-ranking official or staffer",[],0,0,0,False,
+575,L. Cristina Griffith,associate,Recipient of the email,[],0,0,0,False,
+576,Kenneth Hyle,associate,"recipient and sender of emails, reviewing and editing Epstein Reconstruction document",[],0,0,0,False,
+577,b(7)(F),associate,Official preparing count,[],0,0,0,False,
+578,Sublimehottie (blog author),associate,The author of the Myspace blog posts,[],0,0,0,False,
+579,Amanda,associate,Caller,[],0,0,0,False,
+580,José A. Cabranes,associate,Circuit Judge,[],0,1,0,False,
+581,"Raymond J. Lohier, Jr.",associate,Circuit Judge,[],0,0,0,False,
+582,Nicole Simmons,associate,Person who served the declaration,[],0,5,0,False,
+583,Dennis Donahue,associate,jury consultant hired for the case,[],0,0,0,False,
+584,Paul Shechtman,associate,Attorney for David Parse,[],0,0,0,False,
+585,Stephen Gillers,associate,Expert or witness,[],0,1,0,False,
+586,Tovah Noel,associate,Defendant,[],0,0,0,False,
+587,Carrie Yackee,associate,Sender of emails and faxes,[],0,0,0,False,
+588,"Paul H. Schoeman, Esq.",associate,attorney mentioned in conversation,[],0,0,0,False,
+589,Cledus McTavern,associate,Myspace user commenting on someone's profile,[],0,2,0,False,
+590,sam,associate,Myspace user,[],0,0,0,False,
+591,Dr. Richard Hall,associate,Expert witness,[],0,0,0,False,
+592,Jay Clayton,associate,United States Attorney for the Southern District of New York,[],0,0,0,False,
+593,Kenneth R. Feinberg,associate,Co-Designer of the EVCP,[],0,1,0,False,
+594,speer,associate,Court Reporter/Transcriber,[],0,0,0,False,
+595,Mr. Nardello,associate,private investigator hired by Kramer Levin and the witness's team,[],0,0,0,False,
+596,Lourie,associate,AUSA involved in the Epstein case,[],0,0,0,False,
+597,Deborah,associate,Person who signed a message slip and left an urgent note,[],0,0,0,False,
+598,Daniel Rodgers,associate,Pilot,[],0,0,0,False,
+599,David Redding,associate,Pilot,[],0,0,0,False,
+600,MR. LEFKOWITZ,associate,Defense attorney for Epstein,[],0,0,0,False,
+601,Inmate 3,associate,"Epstein's cellmate who was transferred on August 9, 2019",[],0,0,0,False,
+602,Day Watch SHU Officer in Charge,associate,Senior Officer Specialist in charge of SHU on August 9,[],0,0,0,False,
+603,Kevin Pistro,associate,Sender of the email,[],0,0,0,False,
+604,Michael J. Fitzpatrick,associate,Chief U.S. Probation Officer,[],0,0,0,False,
+605,Christine Murray,associate,NYSD court staff or clerk,[],0,0,0,False,
+606,Andre Matevousian,associate,"Recipient of the original email, potentially a high-ranking BOP official",[],0,0,0,False,
+607,C. Edge,associate,"Unclear, possibly a staff member or investigator",[],0,0,0,False,
+608,Princess Jenny,associate,Myspace user commenting on the profile,[],0,0,0,False,
+609,Alicia,associate,Caller who left a message for Mr. Epstein,[],0,0,0,False,
+610,"STANLEY J. OKULA, JR.",associate,Attorney or representative submitting a letter to Judge Pauley,[],0,0,0,False,
+611,Randy Kim,associate,Partner of the witness in the San Francisco office,[],0,1,0,False,
+612,Garrett Stein,associate,Someone expressed affection for by 'steph',[],0,0,0,False,
+613,Minor Victim 4,associate,"Alleged victim, an eleven-year-old girl",[],0,0,0,False,
+614,David Benhamou,associate,Non-attorney personnel on the case,[],0,0,0,False,
+615,Robert J. Conrad,associate,Individual with FEC contribution records,[],0,0,0,False,
+616,Philippe JAIGLIF,associate,Chef du Bureau de l'Entraide Pénale Internationale,[],0,0,0,False,
+617,Mr. HOBSON,associate,attorney,[],0,0,0,False,
+618,Pierre N. Leval,associate,Circuit Judge,[],0,0,0,False,
+619,Ms. Maxwell's husband,associate,Co-signer of the personal recognizance bond,[],0,0,0,False,
+620,Juror ID: 50,associate,Potential juror in a court case,[],0,6,0,False,
+621,Sara,associate,"Epstein's assistant, allegedly involved in arranging encounters",[],0,0,0,False,
+622,Zack,associate,Mentioned as someone who supposedly discussed the redacted person's conversation,[],0,0,0,False,
+623,Sharon R. Bock,associate,Clerk and Comptroller,[],0,0,0,False,
+624,Nicole Hesse,associate,Shipper,[],0,1,0,False,
+625,Berke,associate,attorney being deposed,[],0,0,0,False,
+626,Mr. Johnson,associate,plaintiff in a referenced court case (Johnson v. Armontront),[],0,0,0,False,
+627,Rioux,associate,referenced in a previous court decision related to jury pool definition,[],0,0,0,False,
+628,Christine,associate,Made a phone call and was involved in training new staff,[],0,0,0,False,
+629,David Roddy,associate,Pilot,[],0,0,0,False,
+630,David Rodafe,associate,Pilot,[],0,0,0,False,
+631,David R. Roberts,associate,Pilot,[],0,0,0,False,
+632,Calhan/Thomas,associate,Correctional Officer who failed to conduct rounds and falsified count slips,[],0,0,0,False,
+633,SIS Lieutenant,associate,"Investigator who discovered DVR 2 failure on August 8, 2019",[],0,0,0,False,
+634,Judge Sullivan,associate,Author of a cited Alaska case precedent,[],0,0,0,False,
+635,Nancy Ayers,associate,"Chief, Office of Public Affairs, Federal Bureau of Prisons",[],0,0,0,False,
+636,John Csakany,associate,Chief Deputy U.S. Marshal,[],0,0,0,False,
+637,Kathy,associate,"likely administrative or coordinating role, tasked with sending document to DOJ",[],0,0,0,False,
+638,Ray,associate,Individual being interviewed by US Attorney,[],0,0,0,False,
+639,Various correctional officers,associate,Observers conducting and logging observations,[],0,0,0,False,
+640,Unknown/Inmate ID,associate,Inmate being monitored,[],0,0,0,False,
+641,Officer performing checks,associate,Responsible for monitoring and documenting inmate status,[],0,0,0,False,
+642,MeG-a-LyNn (Megan),associate,Profile owner or primary user of the Myspace account,[],0,0,0,False,
+643,Danielle,associate,Commenter on Myspace profile,[],0,0,0,False,
+644,Amber,associate,Mentioned friend or acquaintance,[],0,0,0,False,
+645,IGGY,associate,Myspace user interacting with the profile owner,[],0,0,0,False,
+646,Doug,associate,Friend or acquaintance,[],0,0,0,False,
+647,Local TV show host,associate,A person the author met at the bike rally,[],0,0,0,False,
+648,Lanna Leigh Belohlavek,associate,State Attorney's Office,[],0,0,0,False,
+649,Alina,associate,Individual who contacted Mr. J Epstein,[],0,0,0,False,
+650,Hans Peterson,associate,Individual whose extradition to the US was denied by France in 2007,[],0,0,0,False,
+651,Paul Cassell,associate,Counsel for Virginia Giuffre,[],0,1,0,False,
+652,Frank J. Rosa,associate,Catherine M. Conrad's spouse,[],0,0,0,False,
+653,Kandace Blanchard,associate,Executive clinical director and donor,[],0,0,0,False,
+654,Paul Blanchard,associate,Business owner and donor,[],0,0,0,False,
+655,Colleen Maloof,associate,Business owner,[],0,0,0,False,
+656,Jerry Perenchio,associate,President of Univision,[],0,0,0,False,
+657,Annabi,associate,case precedent,[],0,0,0,False,
+658,Minor Victim-7,associate,14-year-old victim of alleged sex trafficking,[],0,0,0,False,
+659,D.S.,associate,Victim/alleged cooperating witness in a prior case,[],0,0,0,False,
+660,Jane Doe No. 4,associate,Proposed additional petitioner,[],0,0,0,False,
+661,Mr. Daugerdas,associate,defendant represented by Mr. Gair,[],0,0,0,False,
+662,Justice Stevens,associate,Supreme Court Justice whose dissent is referenced,[],0,1,0,False,
+663,Theresa,associate,Attorney involved in the juror selection process,[],0,0,0,False,
+664,Andrea K. Johnstone,associate,United States Magistrate Judge,[],0,2,0,False,
+665,N.F.,associate,Witness who testified against Mr. Robertson,[],0,0,0,False,
+666,Debra C. Freeman,associate,Judge,[],0,0,0,False,
+667,Richard J. Sullivan,associate,Circuit Judge,[],0,0,0,False,
+668,Mr. Jules Burney,associate,expert on French law cited in the document,[],0,0,0,False,
+669,Richard J. Durbin,associate,US Senator who wrote to the French Minister of Foreign Affairs,[],0,0,0,False,
+670,Barack Obama,politician,44th U.S. President; appears in documents only as Senator on unrelated official business,['Barack Hussein Obama II'],0,0,0,False,American
+671,Mark Cohen,associate,Defense Attorney,[],0,0,0,False,
+672,Leah S. Saffian,associate,Defense Attorney,[],0,1,0,False,
+673,Marc Allan Fernich,associate,Defense attorney for Jeffrey Epstein,[],0,0,0,False,
+674,Chuck Yeager,associate,Referenced in a Myspace profile comment,[],0,1,0,False,
+675,Dorothy Mantooth,associate,Myspace user,[],0,0,0,False,
+676,Leah,associate,Commenter on the profile,[],0,0,0,False,
+677,Dick Painter,associate,Sender of messages to the Myspace profile owner,[],0,1,0,False,
+678,Jean Luc Bernard,associate,potential deponent,[],0,0,0,False,
+679,Lisa Marie Rocchio,associate,"Expert witness or consultant in a court case, clinical psychologist",[],0,0,0,False,
+680,Employee-1,associate,Witness who worked for Jeffrey Epstein,[],0,0,0,False,
+681,Bennett L. Gershman,associate,Expert witness,[],0,0,0,False,
+682,Pamela J. Bondi,associate,United States Attorney General,[],0,0,0,False,
+683,Stephen Flatley,associate,Forensic Examiner for the Federal Bureau of Investigation,[],0,4,0,False,
+684,Michelle Healey,associate,Defense witness,[],0,0,0,False,
+685,Camille S. Biros,associate,Claims administration expert and partner to Ms. Feldman,[],0,1,0,False,
+686,Melissa Madrigal,associate,Co-counsel for Defendant Ghislaine Maxwell,[],0,1,0,False,
+687,REYES,associate,Individual associated with Epstein,[],0,0,0,False,
+688,J.F.,associate,Recipient of telephone message,[],0,0,0,False,
+689,Glen,associate,Caller who left a message for J.F.,[],0,0,0,False,
+690,Linda,associate,Caller who wanted to discuss something,[],0,0,0,False,
+691,David Redfearn,associate,Pilot,[],0,0,0,False,
+692,David Reddage,associate,Pilot,[],0,0,0,False,
+693,Andy Stewart,associate,"Passenger, GM (General Manager)",[],0,0,0,False,
+694,Paula Epsilon,associate,Passenger,[],0,0,0,False,
+695,Jonathan Mano,associate,Certifying instructor,[],0,0,0,False,
+696,Cindy Lopez (Buklarewicz),associate,Observer/Crew member,[],0,0,0,False,
+697,LARRY,associate,Instructor,[],0,0,0,False,
+698,Menchel,associate,USAO official involved in discussions about victim consultation,[],0,0,0,False,
+699,SHU Lieutenant,associate,Lieutenant responsible for SHU operations,[],0,0,0,False,
+700,MLP,associate,Prescribing Doctor,[],0,0,0,False,
+701,Not specified,associate,The individual whose watch log or duty log this is,[],0,10,0,False,
+702,REC OFFICER #1,associate,Records Officer with redacted identity,[],0,0,0,False,
+703,ESCORT OFF #1,associate,Escort Officer with redacted identity,[],0,0,0,False,
+704,Scott Lamine,associate,Recipient of the email,[],0,0,0,False,
+705,Ric Bradshaw,associate,Palm Beach County Sheriff,[],0,0,0,False,
+706,"N'Diaye, Warden",associate,Institution's Warden,[],0,0,0,False,
+707,"Skipper-Scott, AW",associate,Associate Warden notified of incident,[],0,0,0,False,
+708,CMC (Case Management Coordinator),associate,Notified next of kin and handled various tasks related to Epstein's death,[],0,0,0,False,
+709,S. Skipper-Scott,associate,Associate Warden notified of the incident,[],0,0,0,False,
+710,[redacted] MLP,associate,Medical provider who treated Epstein,[],0,0,0,False,
+711,AD Thompson,associate,Authority to finalize response to media inquiry,[],0,0,0,False,
+712,Officer performing the check,associate,Correctional Officer responsible for conducting the welfare check,[],0,0,0,False,
+713,*D - CBP OFFCR-C,associate,Referring CBP Officer,[],0,0,0,False,
+714,*D - CBP Officer-C,associate,The CBP officer who referred Epstein for inspection,[],0,0,0,False,
+715,Isiah,associate,Participant in the Myspace conversation,[],0,0,0,False,
+716,Lea,associate,Friend or close acquaintance of the writer,[],0,0,0,False,
+717,Ewan McGregor,associate,Pimp Juice's celebrity crush,[],0,0,0,False,
+718,Jibby,associate,Friend or acquaintance of the profile owner,[],0,0,0,False,
+719,Robyn,associate,The author's friend whose father passed away,[],0,0,0,False,
+720,AMY,associate,Sender of a message referencing a social encounter,[],0,0,0,False,
+721,Mel-Y-ssa,associate,Profile owner or someone interacting with the profile owner,[],0,0,0,False,
+722,Manuela,associate,Caller who left a message for Mr. Epstein,[],0,0,0,False,
+723,Jenny,associate,Caller who left a message,[],0,0,0,False,
+724,Steven Andrew,associate,Participant in the conversation,[],0,0,0,False,
+725,Shayna Casdorph,associate,Associate who witnessed suspicious activity,[],0,0,0,False,
+726,Jack P. Hill,associate,Attorney for Plaintiff,[],0,1,0,False,
+727,Theodore J. Leopold,associate,attorney writing the letter,[],0,1,0,False,
+728,Daniel,associate,Victim and father of the suspect,[],0,0,0,False,
+729,Henry Pittman,associate,United States Magistrate Judge presiding over the bail hearing,[],0,0,0,False,
+730,MS. PENZA,associate,Defense Counsel,[],0,0,0,False,
+731,Preet Bharara,associate,United States Attorney,[],0,1,0,False,
+732,Stanley J. Okula,associate,Recipient of a letter from Catherine Conrad,[],0,0,0,False,
+733,Craig Brubaker,associate,client represented by witness and their firm,[],0,1,0,False,
+734,David K. Parse,associate,client represented by Susan Brune,[],0,0,0,False,
+735,MEG,associate,User commenting on a profile,[],0,0,0,False,
+736,steph,associate,User responding to MEG's comment,[],0,0,0,False,
+737,Donna Guerin,associate,Co-conspirator,[],0,0,0,False,
+738,Minor Victim-5,associate,"Alleged victim, an 8-year-old girl",[],0,1,0,False,
+739,Minor Victim-6,associate,"Alleged victim, another minor under 14 years old",[],0,1,0,False,
+740,R. Craig Brubaker,associate,Sender of emails,[],0,0,0,False,
+741,Jane Doe #1,associate,Petitioner,[],0,0,0,False,
+742,Jane Doe No. #3,associate,Proposed additional petitioner,[],0,0,0,False,
+743,Adam Hollander,associate,Recipient of an email from William Kermode,[],0,0,0,False,
+744,Victor M. Serby,associate,Attorney filing affirmation in opposition to motion to dismiss,[],0,0,0,False,
+745,Mr. DeMARCO,associate,attorney,[],0,0,0,False,
+746,Mr. Perry,associate,Subject of an addendum opinion from the U.K.,[],0,0,0,False,
+747,Potential Defense Witnesses,associate,Witnesses who may testify on behalf of the defendant,[],0,1,0,False,
+748,Mr. John Wallace,associate,"Staff Attorney, MDC Brooklyn",[],0,0,0,False,
+749,Olivier Laude,associate,"Partner at Laude Esquior Champey, acting on behalf of Cohen & Gresser LLP",[],0,0,0,False,
+750,Philippe JAIGLÉ,associate,Head of the International Criminal Assistance Bureau of the French Ministry of Justice,[],0,0,0,False,
+751,Detective 2,associate,interrogator seeking to establish witness's age and timeline,[],0,1,0,False,
+752,Dr. Jack Shephard,associate,Friend or acquaintance of the profile owner,[],0,0,0,False,
+753,Toni,associate,Recipient of affectionate or familiar messages on Myspace,[],0,0,0,False,
+754,Garth,associate,Referenced individual in a comment,[],0,0,0,False,
+755,Mr. Leopold,associate,attorney for the witness,[],0,1,0,False,
+756,Paul,associate,The witness's mother's husband,[],0,0,0,False,
+757,Wendy Olson,associate,"Coordinator, Victim Witness Unit",[],0,0,0,False,
+758,William O'Donohue,associate,Author,[],0,1,0,False,
+759,JEANNIE BREANON,associate,Recipient of packages sent by Epstein,[],0,0,0,False,
+760,MR. DAVIS,associate,Attorney conducting direct and redirect examination,[],0,0,0,False,
+761,Shechtman,associate,likely a lawyer or witness,[],0,0,0,False,
+762,Robert Y. Lewis,associate,Attorney representing Sarah Ransome and Elizabeth Stein,[],0,1,0,False,
+763,Juliette Bryant,associate,Alleged victim,[],0,0,0,False,
+764,Mr. Rotert,associate,Witness or attorney,[],0,0,0,False,
+765,Mr. Berke,associate,person informed by Ms. Trzaskoma,[],0,0,0,False,
+766,Duren,associate,"defendant in Duren v. Missouri, a relevant case",[],0,0,0,False,
+767,Alice Fisher,associate,Assistant Attorney General for the Criminal Division during the relevant period,[],0,0,0,False,
+768,J. E.,associate,Recipient of messages,[],0,0,0,False,
+769,Eve,associate,Person taking or signing messages,[],0,0,0,False,
+770,Max,associate,"likely a pet, possibly a dog",[],0,0,0,False,
+771,Daniel Redgate,associate,Pilot,[],0,0,0,False,
+772,David Redlinger,associate,Pilot,[],0,0,0,False,
+773,KRISTY RODGERS,associate,Co-pilot or observer,[],0,0,0,False,
+774,David P. Podgurski,associate,Pilot,[],0,0,0,False,
+775,Jeff Sloman,associate,First Assistant United States Attorney and Criminal Chief,[],0,0,0,False,
+776,Associate Warden 1,associate,Senior official at MCC New York who assisted SIS Lieutenant,[],0,0,0,False,
+777,Unit Manager,associate,Allowed Epstein to place an unmonitored telephone call,[],0,1,0,False,
+778,Darrin,associate,Recipient of the email,[],0,0,0,False,
+779,Savell Clifford,associate,Visitor,[],0,0,0,False,
+780,[redacted] PA-C,associate,Medical Provider who completed the record,[],0,0,0,False,
+781,J. Eakin,associate,Visitor or staff member interacting with inmate,[],0,0,0,False,
+782,TOWN DRIVER,associate,Driver for official duties,[],0,0,0,False,
+783,OPS LT,associate,"Operations Lieutenant, likely a supervisory or managerial role",[],0,0,0,False,
+784,ACT LT,associate,"Acting Lieutenant, had shift and leave status changed",[],0,0,0,False,
+785,Case Management Coordinator,associate,Reviews inmate releases,[],0,0,0,False,
+786,R. Ormond,associate,Northeast Regional Director,[],0,0,0,False,
+787,Physician Assistant (PA),associate,Conducted medical Intake Screening and History and Physical for Mr. Epstein,[],0,0,0,False,
+788,Reyes #85993-054,associate,Epstein's cellmate,[],0,0,0,False,
+789,[redacted] Psy.D.,associate,Author of the draft report and National Suicide Prevention Coordinator,[],0,0,0,False,
+790,Jeffrey Keller,associate,Recipient of the draft report,[],0,0,0,False,
+791,Lee J Loftus,associate,Recipient of the statement from Hugh Hurwitz,[],0,0,0,False,
+792,b(6); b(7)(C) MD,associate,Medical doctor who provided the C-PAP machine,[],0,0,0,False,
+793,b(6); b(7)(C) PhD/Chief Psychologist,associate,Provider conducting the clinical intervention,[],0,0,0,False,
+794,"Andrea, S",associate,Staff member on Unit 10 SOUTH #2,[],0,0,0,False,
+795,ALEX,associate,Person communicating with others about or around Epstein,[],0,0,0,False,
+796,*F - CBP OFFCR-C,associate,Secondary CBP Officer,[],0,0,0,False,
+797,*F - CBP Officer-C,associate,The secondary CBP officer involved in the inspection process,[],0,0,0,False,
+798,Inspector,associate,The person who potentially accessed or updated the TECS record,[],0,0,0,False,
+799,zach bryan,associate,Someone the profile owner is in love with,[],0,0,0,False,
+800,Mary,associate,Correspondent or acquaintance of the profile owner,[],0,0,0,False,
+801,Brandon,associate,Commenter on the Myspace profile,[],0,0,0,False,
+802,Skyler,associate,Target of derogatory comment on Myspace,[],0,0,0,False,
+803,Megan (MeG-a-LyNn),associate,Profile owner or primary individual,[],0,0,0,False,
+804,Lou Dog,associate,Brad's pet and 'alter ego',[],0,0,0,False,
+805,Dave,associate,Caller who left a message for Jo Jo,[],0,0,0,False,
+806,Natasha,associate,Caller who left a message,[],0,0,0,False,
+807,Colleen,associate,Caller,[],0,0,0,False,
+808,Cecilie,associate,Caller from NYC office,[],0,0,0,False,
+809,Dana,associate,Caller who left a message for Jeffery,[],0,0,0,False,
+810,Dr. Jarecki,associate,Made a telephone call,[],0,0,0,False,
+811,Detective,associate,Investigator conducting the deposition,[],0,0,0,False,
+812,Lisa Geese-ah,associate,Commenter,[],0,0,0,False,
+813,WAKE UP THE DEAD,associate,Participant in the conversation,[],0,0,0,False,
+814,Samatha,associate,Commenter or friend,[],0,0,0,False,
+815,Brent Bradbury,associate,Preparer of the financial analysis report,[],0,0,0,False,
+816,Perry Lang/Adam,associate,Client,[],0,0,0,False,
+817,Holly Robson,associate,Account holder,[],0,3,0,False,
+818,Gonzalez,associate,defendant in a referenced case,[],0,0,0,False,
+819,Eley,associate,defendant in a referenced case,[],0,0,0,False,
+820,BROOKE BEDOYA,associate,Responding Officer,[],0,1,0,False,
+821,Christopher Bryant,associate,Officer who handled the missing person case,[],0,0,0,False,
+822,Autumn Allen,associate,Detective who was notified about the missing juvenile,[],0,0,0,False,
+823,Byron Elrod,associate,Person with whom the missing juvenile was allegedly associating,[],0,0,0,False,
+824,L0vEabLe d0rKk,associate,Participant in the conversation,[],0,2,0,False,
+825,Adam Mueller,associate,Counsel for Defendant-Appellant Ghislaine Maxwell,[],0,0,0,False,
+826,Jeffery Pagliuca,associate,Attorney representing Ghislaine Maxwell,[],0,0,0,False,
+827,James Christe,associate,Videographer,[],0,0,0,False,
+828,Detective Allen Dix,associate,Detective who assisted in the investigation,[],0,0,0,False,
+829,Nicholas Cutaia,associate,Person sending an email with a revised draft jury charge,[],0,0,0,False,
+830,MR. AGNIFILO,associate,defense attorney,[],0,0,0,False,
+831,Richard C. Wesley,associate,Circuit Judge,[],0,0,0,False,
+832,Dennis J. Lerner,associate,Counsel for Defendant,[],0,1,0,False,
+833,"Johnson, C.J.",associate,Chief Judge,[],0,0,0,False,
+834,"Marrero, J.",associate,Judge,[],0,0,0,False,
+835,"Daniels, J.",associate,Judge,[],0,0,0,False,
+836,"Parker, J.",associate,Judge,[],0,0,0,False,
+837,"Preska, J.",associate,Judge,[],0,0,0,False,
+838,"Woods, J.",associate,Judge,[],0,0,0,False,
+839,Judge Engelmayer,associate,Judge,[],0,0,0,False,
+840,"Furman, J.",associate,Judge,[],0,0,0,False,
+841,"Buchwald, J.",associate,Judge,[],0,0,0,False,
+842,Ghulam J. Khan Maxwell,associate,Pre-trial detainee,[],0,0,0,False,
+843,Ruth Pickholz,associate,Justice of the Supreme Court at Jeffrey Epstein's SORA hearing,[],0,0,0,False,
+844,JENNIFER GAFFNEY,associate,Assistant District Attorney at Jeffrey Epstein's SORA hearing,[],0,0,0,False,
+845,Haddon Morgan Foreman,associate,Counsel for Ghislaine Maxwell,[],0,0,0,False,
+846,R. Bart Rutledge,associate,Albuquerque home builder,[],0,0,0,False,
+847,Ted Turner,associate,Business Executive,[],0,0,0,False,
+848,Stephen A. Cozen,associate,Attorney,[],0,0,0,False,
+849,John M. Eaves,associate,Attorney and donor,[],0,0,0,False,
+850,Pia Salazar,associate,Attorney and donor,[],0,0,0,False,
+851,Orville D. McDonald,associate,Investor and donor,[],0,0,0,False,
+852,Dennis M. Langley,associate,CEO and president,[],0,0,0,False,
+853,Paul E. Cook,associate,Program manager,[],0,0,0,False,
+854,Tommy Hughes,associate,Bond Attorney,[],0,0,0,False,
+855,Arnold J. Rael,associate,Horse racing steward,[],0,0,0,False,
+856,Thomas M. Valenzuela,associate,President,[],0,0,0,False,
+857,Leo Sims,associate,Rancher,[],0,0,0,False,
+858,James Peterson,associate,Owner of Peterson Properties Real Estate Services Inc.,[],0,0,0,False,
+859,Solomon D. Trujillo,associate,Chairman & CEO,[],0,0,0,False,
+860,Katherine Slick,associate,Businesswoman and donor,[],0,1,0,False,
+861,Leonard A. Lauder,associate,Chairman and donor,[],0,1,0,False,
+862,Dashawn Robertson,associate,Defendant,[],0,1,0,False,
+863,Rosa Monckton,associate,Epstein's friend and former CEO of Tiffany & Co. UK,[],0,0,0,False,
+864,Leah Kleman,associate,Epstein's art dealer,[],0,0,0,False,
+865,Robert A. Katzmann,associate,Chief Judge,[],0,0,0,False,
+866,Roy Black,associate,Epstein's defense attorney,[],0,0,0,False,
+867,Barbara Burns,associate,State Attorney's Office representative,[],0,0,0,False,
+868,MDC (Metropolitan Detention Center),associate,The facility where Ms. Maxwell is being held,[],0,0,0,False,
+869,Denis Field,associate,Co-conspirator,[],0,0,0,False,
+870,Daniel Aronoff,associate,Sender of letters to David Parse,[],0,0,0,False,
+871,Jane Doe #2,associate,Petitioner,[],0,0,0,False,
+872,Christine Mazzella,associate,Special Agent - IRS,[],0,0,0,False,
+873,Judge Van Graafeiland,associate,dissenting judge in Flores case,[],0,0,0,False,
+874,Juror No. 1 (Catherine Conrad),associate,juror in a trial,[],0,0,0,False,
+875,William Kermode,associate,Sender of an email attaching a bill of particulars,[],0,0,0,False,
+876,Melissa Desori,associate,Associate attorney on the Parse matter,[],0,1,0,False,
+877,David Elbaum,associate,Attorney who worked on expert testimony issues,[],0,1,0,False,
+878,Brendan Henry,associate,Paralegal on the case,[],0,1,0,False,
+879,Jenson Smith,associate,Paralegal on the case,[],0,1,0,False,
+880,Ariel Stoddard,associate,Paralegal on the case,[],0,1,0,False,
+881,Nancy Ma,associate,Paralegal on the case,[],0,1,0,False,
+882,Mr. Hernandez,associate,Prosecutor/Attorney,[],0,0,0,False,
+883,Michael Toporek,associate,Sender of letters to David Parse,[],0,0,0,False,
+884,Michael Hammer,associate,Recipient of letters and faxes,[],0,0,0,False,
+885,Juror No. 1 (Ms. Conrad),associate,juror being discussed,[],0,0,0,False,
+886,Catherine Conrad/Rosa,associate,Individual with multiple criminal records,[],0,1,0,False,
+887,Magistrate Judge Briones,associate,Issued the initial order of detention,[],0,0,0,False,
+888,Mark DeMarco,associate,Attorney for the defendant,[],0,1,0,False,
+889,French legal expert,associate,providing expert opinion on French law regarding extradition,[],0,0,0,False,
+890,Djamel Beghal,associate,Dual French-Algerian citizen convicted of terrorist offences and deprived of French nationality,[],0,1,0,False,
+891,"Gleeson, J.",associate,Judge in referenced case,[],0,0,0,False,
+892,Ghislaine Maxwell's spouse,associate,co-signing bail bond and supporting Ghislaine Maxwell,[],0,0,0,False,
+893,Mr. Glassman,associate,attorney for Plaintiff,[],0,0,0,False,
+894,Andy Dios,associate,"Legal Compliance Agent, Law Enforcement Relations at T-Mobile USA",[],0,1,0,False,
+895,Barbara J. Burns,associate,Assistant State Attorney handling the case,[],0,0,0,False,
+896,Gary McKinnon,associate,Individual whose extradition was previously refused,[],0,0,0,False,
+897,Vivienne Stapp,associate,"Sender of email to Randy Kim on March 1, 2011",[],0,0,0,False,
+898,Suann Ingle,associate,"Sender of email to Kendra Melrose on May 11, 2011",[],0,0,0,False,
+899,Mr. Berry,associate,defendant,[],0,0,0,False,
+900,Mr. Jones,associate,Victim,[],0,0,0,False,
+901,ROBERT W. SWEET,associate,United States District Judge,[],0,1,0,False,
+902,Robson,associate,The person who allegedly trafficked the victim to Epstein,[],0,0,0,False,
+903,Sgt Frick,associate,Officer who accompanied the interviewer during the investigation,[],0,0,0,False,
+904,Rina Danielson,associate,Person serving the Brief of Amicus Curiae,[],0,0,0,False,
+905,Mariana Braylovskiy,associate,Notary Public,[],0,0,0,False,
+906,Sheena,associate,Mentioned as someone involved in the redacted person's fight,[],0,0,0,False,
+907,Chuck,associate,Friend or acquaintance of the profile owner,[],0,0,0,False,
+908,Eating Emo Kids For Breakfast,associate,Friend or acquaintance of the profile owner,[],0,0,0,False,
+909,Ashley,associate,Myspace user whose friends list is being viewed,[],0,0,0,False,
+910,MARK,associate,The person being referred to in the comments,[],0,0,0,False,
+911,KAYTLYN MARIE,associate,Someone interacting with Ugly Ken Hart on Myspace,[],0,0,0,False,
+912,Ashley Davis,associate,Profile owner or featured individual,[],0,2,0,False,
+913,Regina Chacon,associate,"Assistant Bureau Chief, Law Enforcement Records Bureau, NM Department of Public Safety",[],0,0,0,False,
+914,Girl From Ipanema,associate,Myspace user commenting on the profile,[],0,1,0,False,
+915,JGreen,associate,Myspace user/commenter,[],0,0,0,False,
+916,"Ash, Lorinda",associate,Person mentioned in a comment on the MySpace page,[],0,0,0,False,
+917,James L. Brochin,associate,Counsel for Defendant Jeffrey Epstein,[],0,1,0,False,
+918,Unknown/Inmate ID Numbers,associate,Inmates being monitored,[],0,0,0,False,
+919,Bruce Castor,associate,Former District Attorney who made a promise not to prosecute Cosby,[],0,0,0,False,
+920,Joseph Pecorino,associate,District Executive's Office,[],0,0,0,False,
+921,Katielynn Boyd Townsend,associate,Counsel for Reporters Committee for Freedom of the Press,[],0,0,0,False,
+922,JOHN M. LEVENTHAL,associate,Co-counsel with Arthur L. Aidala,[],0,1,0,False,
+923,"Kenneth A. Polite, Jr.",associate,"Assistant Attorney General, Criminal Division, U.S. Department of Justice",[],0,0,0,False,
+924,Natalie Bennett,associate,Author,[],0,0,0,False,
+925,Larry Laudan,associate,Philosopher of science referenced,[],0,0,0,False,
+926,Ramona Alaggia,associate,Author and researcher on CSA disclosures,[],0,0,0,False,
+927,Delphine Collin-Vézina,associate,Co-author and researcher on CSA disclosures,[],0,0,0,False,
+928,Rusan Lateef,associate,Co-author and researcher on CSA disclosures,[],0,0,0,False,
+929,Norman K. Moon,associate,Judge,[],0,0,0,False,
+930,Dottie Wilson,associate,Recipient of a package sent by Epstein,[],0,0,0,False,
+931,E. Simmonds,associate,Sender of a package to K. Vauchan Edwards,[],0,0,0,False,
+932,Dr. Rocchio,associate,Prosecution expert witness whose opinions are being challenged,[],0,2,0,False,
+933,Alan Stopeck,associate,Landscape designer,[],0,0,0,False,
+934,Park Dietz,associate,Author of the article 'Grooming and Seduction',[],0,0,0,False,
+935,Francisco Villacis,associate,JPMorgan Private Bank representative,[],0,0,0,False,
+936,Melissa Dalton,associate,JPMorgan Private Bank representative,[],0,0,0,False,
+937,Jeffrey M. Herman,associate,Attorney for Witness Y. Doe,[],0,0,0,False,
+938,Diana Fabi Samson,associate,Additional counsel for Ghislaine Maxwell/Defendant-Appellant,[],0,2,0,False,
+939,"William H. Pauley, III",associate,Judge presiding over the case,[],0,0,0,False,
+940,Bruce A. Green,associate,Professor and expert witness in Giuffre v. Dershowitz,[],0,1,0,False,
+941,Michael Salnick,associate,Attorney representing Janusz Banasiak,[],0,1,0,False,
+942,Nathan Siegel,associate,Attorney for ABC News and NBC News,[],0,0,0,False,
+943,Abbe David Lowell,associate,Counsel for National Association of Criminal Defense Lawyers (NACDL),[],0,0,0,False,
+944,Jeffrey Oestericher,associate,Assistant United States Attorney,[],0,1,0,False,
+945,"Jane, Annie, Kate, Carolyn, Virginia, and Melissa",associate,Victims,[],0,0,0,False,
+946,Michelle,associate,Individual referenced in Jane's testimony,[],0,0,0,False,
+947,DeRosa,associate,Witness or person of interest,[],0,0,0,False,
+948,Julie Blackman,associate,expert or consultant hired by Kramer Levin,[],0,0,0,False,
+949,Mr. Benhamou,associate,person who provided Westlaw report to Ms. Trzaskoma,[],0,0,0,False,
+950,Mr. Kim,associate,Involved in the investigation,[],0,0,0,False,
+951,Laura Edelstein,associate,witness called by the government,[],0,0,0,False,
+952,MS. McCARTHY,associate,Co-counsel or opposing counsel,[],0,0,0,False,
+953,Mark Filip,associate,Deputy Attorney General during the relevant period,[],0,0,0,False,
+954,Andrew Oosterbaan,associate,Chief of CEOS during the relevant period,[],0,0,0,False,
+955,Bahna,associate,defendant in a Second Circuit case that frames the inquiry into jury division and fair cross-section challenges,[],0,0,0,False,
+956,Boustani,associate,defendant in a cited case,[],0,0,0,False,
+957,Judge Kaplan,associate,presiding judge in Prince Andrew lawsuit,[],0,0,0,False,
+958,Shawn [REDACTED],associate,Plaintiff's ex-boyfriend who transported her to Epstein's house,[],0,0,0,False,
+959,Dorothy [REDACTED],associate,Plaintiff's mother who transported her to Epstein's house,[],0,0,0,False,
+960,Jeff Holman,associate,Person who made a phone call,[],0,0,0,False,
+961,John Barrow,associate,Caller,[],0,0,0,False,
+962,Evelyne,associate,Person signing or associated with some of the telephone messages,[],0,0,0,False,
+963,David Roth,associate,Recipient of a telephone message,[],0,0,0,False,
+964,Derrick,associate,Caller who left a message,[],0,0,0,False,
+965,Martha of Colonial Bank,associate,Made a phone call,[],0,0,0,False,
+966,Lucian,associate,Person recording or signing off on messages,[],0,0,0,False,
+967,Francis Ward,associate,Person who contacted Epstein,[],0,0,0,False,
+968,Byron,associate,Person who called Mr. Epstein,[],0,0,0,False,
+969,Bryan,associate,Caller who contacted Mr. Epstein,[],0,0,0,False,
+970,M. Schanz,associate,Caller who left a message for Epstein,[],0,0,0,False,
+971,Ivan Rosh,associate,Caller who left a message for Epstein,[],0,0,0,False,
+972,Leslie (NY Office),associate,Caller who left a message for Sarah,[],0,0,0,False,
+973,Carla,associate,Person who telephoned Jeffry,[],0,0,0,False,
+974,Jerome,associate,Employee or staff member responsible for various tasks,[],0,0,0,False,
+975,John,associate,Staff member or assistant involved in household management,[],0,0,0,False,
+976,Estate Manager,associate,Person responsible for receiving reports of chipped and broken items,[],0,1,0,False,
+977,"Gany, Eric",associate,Mail recipient in New York,[],0,0,0,False,
+978,David Rockyn,associate,Pilot,[],0,0,0,False,
+979,David R. Rutledge,associate,Pilot,[],0,0,0,False,
+980,David Nodgyne,associate,Pilot,[],0,0,0,False,
+981,Donald P. Parkyns,associate,Pilot,[],0,0,0,False,
+982,Carl Roderfer,associate,Pilot,[],0,0,0,False,
+983,David Hodge,associate,Pilot,[],0,0,0,False,
+984,David Malekian,associate,Pilot,[],0,0,0,False,
+985,Connie Rodgers,associate,Pilot,[],0,0,0,False,
+986,David Ledefus,associate,Pilot,[],0,0,0,False,
+987,David Pedgeon,associate,Pilot,[],0,0,0,False,
+988,David Redeker,associate,Pilot,[],0,0,0,False,
+989,Daniel Redefie,associate,Pilot,[],0,0,0,False,
+990,Elizabeth (Libit) Johnson,associate,Passenger or special guest,[],0,0,0,False,
+991,Jeff Schantz,associate,Passenger/Crew,[],0,0,0,False,
+992,Dan,associate,Checkout person for C&I,[],0,0,0,False,
+993,Dara,associate,Passenger/Observer,[],0,0,0,False,
+994,Alexandra Dixon,associate,Individual listed,[],0,0,0,False,
+995,Ian & Tara Maxwell,associate,Individual mentioned in the document,[],0,0,0,False,
+996,Abramson,associate,Witness or person of interest,[],0,0,0,False,
+997,Adler,associate,Person mentioned in testimony,[],0,0,0,False,
+998,Alexander,associate,"Mentioned in the transcript, potentially a person of interest or witness",[],0,0,0,False,
+999,Matthew I. Menchel,associate,Managing Assistant United States Attorney,[],0,0,0,False,
+1000,Andrew Lourie,associate,Assistant United States Attorney,[],0,0,0,False,
+1001,"Sanchez, Carlos",associate,Defense attorney for Jeffrey Epstein,[],0,0,0,False,
+1002,"Lilly Ann Sanchez, Esq.",associate,Attorney for Jeffrey Epstein,[],0,0,0,False,
+1003,Forensic Psychologist 1,associate,psychologist who conducted Epstein's intake screening,[],0,0,0,False,
+1004,Michael Baden,associate,Forensic pathologist mentioned in the article,[],0,1,0,False,
+1005,Darrin Howard,associate,"Recipient of the email, likely involved in the Epstein case or related matters",[],0,0,0,False,
+1006,Adam Johnson,associate,BOP representative,[],0,0,0,False,
+1007,S. Allen Counter,associate,Director of the Harvard Foundation,[],0,0,0,False,
+1008,Dr. Benedict H. Gross,associate,Dean of Harvard College and Leverett Professor of Mathematics,[],0,0,0,False,
+1009,Richard Epstein,associate,Inmate or individual with a visiting list,[],0,0,0,False,
+1010,Plourde Lee,associate,Recipient of the email,[],0,0,0,False,
+1011,Charisma Owens,associate,Sender of the email,[],0,0,0,False,
+1012,Sacksle,associate,Person making or receiving calls/interactions,[],0,0,0,False,
+1013,C. Iali,associate,Visitor to Jeffrey Epstein,[],0,0,0,False,
+1014,M. Colon,associate,Visitor,[],0,0,0,False,
+1015,Colón,associate,Person interacting with Jeffrey Epstein or DOJ officials,[],0,0,0,False,
+1016,Cappelletti,associate,Visitor,[],0,0,0,False,
+1017,Sadler,associate,"Visitor, potentially a legal representative or associate",[],0,0,0,False,
+1018,"Beaudouin, Robert MD",associate,Prescribing Doctor,[],0,0,0,False,
+1019,[redacted] DDS,associate,Dental healthcare provider conducting the examination,[],0,0,0,False,
+1020,Bernard Madoff,associate,Convicted financier who asked President Trump to reduce his prison sentence,[],0,0,0,False,
+1021,REC OFFICER #2,associate,Records Officer with redacted identity,[],0,0,0,False,
+1022,Facilities Assistant,associate,"Observed Epstein's condition on July 6, 2019",[],0,0,0,False,
+1023,[redacted] @bop.gov,associate,BOP representative coordinating with USMS and others,[],0,0,0,False,
+1024,Tracy Amaladas,associate,"Supervisory Deputy United States Marshal, Southern District of New York",[],0,0,0,False,
+1025,M. D. Carvajal,associate,"Assistant Director, CPD",[],0,0,0,False,
+1026,[redacted] Ph.D.,associate,Provider/Unit Team member responsible for observing and documenting Epstein's status,[],0,0,0,False,
+1027,[redacted] PhD/Chief Psychologist,associate,Psychologist conducting the review,[],0,0,0,False,
+1028,Associate Warden of Programs,associate,Oversees programs and receives reports on inconsistencies in inmate assignments,[],0,0,0,False,
+1029,L. N'Diaye,associate,Warden,[],0,0,0,False,
+1030,NER Regional Director,associate,"Arrived at the institution on August 15, 2019",[],0,0,0,False,
+1031,"Skipper-Scott, Shirley V.",associate,Associate Warden notified of the incident,[],0,0,0,False,
+1032,Associate Warden,associate,Responsible for housing decisions and maintaining documentation,[],0,0,0,False,
+1033,Activities Lieutenant,associate,Responsible for checking Front Lobby log books,[],0,0,0,False,
+1034,Executive Staff,associate,Leads training approach and promotes understanding of sex offender dynamics,[],0,0,0,False,
+1035,J. A. Keller,associate,"Regional Director, Southeast Region",[],0,0,0,False,
+1036,[Redacted] Esq.,associate,The attorney making the request on behalf of Epstein's family,[],0,0,0,False,
+1037,"Elissa R. Miller, Psy.D.",associate,"Chief Psychologist, MCC New York",[],0,0,0,False,
+1038,Voices,associate,Individual whose health status is being monitored,[],0,0,0,False,
+1039,Psy.D.,associate,"Chief Psychologist, MCC New York",[],0,0,0,False,
+1040,Bradley T Gross,associate,Forwarding email chain to Hugh Hurwitz,[],0,0,0,False,
+1041,Various Correctional Officers (C/O),associate,Observers documenting Epstein's status,[],0,0,0,False,
+1042,supervisors at MCC,associate,management personnel at the correctional facility,[],0,0,0,False,
+1043,Michael Carroll,associate,Recipient of the email,[],0,0,0,False,
+1044,D. Mebane,associate,Case manager at MCC NY,[],0,0,0,False,
+1045,Ilan Epstein,associate,Inmate being observed (#76318-054),[],0,0,0,False,
+1046,Lieut B.F. Cong,associate,Prison lieutenant inspecting units,[],0,0,0,False,
+1047,M/W CONTROL CENTER OFFICER,associate,Morning/Watch control center officer (name redacted),[],0,0,0,False,
+1048,E/W CONTROL CENTER OFFICER,associate,Evening/Watch control center officer (name redacted),[],0,0,0,False,
+1049,Staff Member Preparing Out Count,associate,Person responsible for preparing the out count form,[],0,0,0,False,
+1050,Officer signing off the checks,associate,Correctional Officer responsible for conducting welfare checks,[],0,0,0,False,
+1051,Lt. [redacted],associate,Officer who took photographs of the incident scene,[],0,0,0,False,
+1052,Crew members,associate,Pilots or crew operating aircraft N722JE,[],0,0,0,False,
+1053,Undisclosed Individual,associate,Subject of the TECS II record,[],0,0,0,False,
+1054,Megan,associate,Profile owner or primary user,[],0,0,0,False,
+1055,Tanmy,associate,"unknown, possibly a person involved in the discussion",[],0,0,0,False,
+1056,amy lynn,associate,Myspace contact,[],0,0,0,False,
+1057,Kelli,associate,Myspace user and potentially relevant individual,[],0,0,0,False,
+1058,5|<y1ER,associate,Myspace user commenting,[],0,0,0,False,
+1059,Brad Nowell,associate,"Lead singer of Sublime, deceased musician",[],0,0,0,False,
+1060,William Tucker,associate,The person used as a reference for the author's job application,[],0,0,0,False,
+1061,lynds,associate,Friend/commenter on Chels-ifer's profile,[],0,0,0,False,
+1062,Jesse,associate,Friend or acquaintance of LOveabLe dOrKk,[],0,0,0,False,
+1063,Nikki,associate,Friend or close acquaintance of the writer,[],0,0,0,False,
+1064,Merda,associate,Participant in the Myspace conversation,[],0,0,0,False,
+1065,Chelsey,associate,individual being communicated with by Megan,[],0,0,0,False,
+1066,BENHAM OPR/DAVID,associate,Caller/Reporter,[],0,0,0,False,
+1067,Gerald Peters,associate,Donor and friend of Richardson,[],0,0,0,False,
+1068,Diane Denish,associate,Candidate or political figure receiving donations,[],0,0,0,False,
+1069,Ed Romero,associate,Ambassador and consultant making a donation,[],0,0,0,False,
+1070,David Steiner,associate,Investor making a donation,[],0,0,0,False,
+1071,Garrett Thornburg,associate,Chairman and CEO making a donation,[],0,0,0,False,
+1072,John Turner,associate,Oil and gas/real estate professional making a donation,[],0,0,0,False,
+1073,Wayne A. Reaud,associate,Attorney making a donation,[],0,0,0,False,
+1074,Odis Echols,associate,Albuquerque President,[],0,0,0,False,
+1075,Anita De Domenico,associate,Santa Fe Businesswoman,[],0,0,0,False,
+1076,Guy Riordan,associate,Albuquerque Banker,[],0,0,0,False,
+1077,Daniel D. Villanueva,associate,"Investor from Los Angeles, Calif.",[],0,0,0,False,
+1078,Bernard L. Schwartz,associate,CEO,[],0,0,0,False,
+1079,Bernard Rapoport,associate,Philanthropist,[],0,0,0,False,
+1080,Brian F. Egolf,associate,Oil and gas executive,[],0,0,0,False,
+1081,Billy G. Smith,associate,Horseman/taxi service owner,[],0,0,0,False,
+1082,Various individuals and organizations,associate,Donors or contributors,[],0,2,0,False,
+1083,Edward R. Broida,associate,Retiree and donor,[],0,0,0,False,
+1084,Frank Zaitshik,associate,President and donor,[],0,0,0,False,
+1085,Antonio Villaraigosa,associate,"Recipient of donations, likely a political candidate",[],0,0,0,False,
+1086,Maryon Davies Lewis,associate,Donor/Contributor,[],0,0,0,False,
+1087,Oscar S. Wyatt Jr.,associate,Business owner/Donor,[],0,0,0,False,
+1088,Nolan H. Brunson,associate,President/Donor,[],0,0,0,False,
+1089,EARL IV,associate,Individual communicating via social media,[],0,0,0,False,
+1090,Gabrielle,associate,Myspace profile owner,[],0,0,0,False,
+1091,Jibby 2j,associate,Sender of a message on Myspace,[],0,0,0,False,
+1092,MeLiSsA,associate,Friend or acquaintance of the profile owner,[],0,0,0,False,
+1093,Linds,associate,Correspondent and friend,[],0,0,0,False,
+1094,Stuart S. Mermelstein,associate,attorney representing a witness,[],0,0,0,False,
+1095,Josh,associate,Accompanied the profile owner to the movies,[],0,0,0,False,
+1096,imCORE,associate,Myspace user who posted a comment,[],0,0,0,False,
+1097,Steve Anthony,associate,Myspace user who posted a comment,[],0,0,0,False,
+1098,Britney,associate,Person being kept on hold or considered as an alternative,[],0,0,0,False,
+1099,Susan,associate,Myspace user,[],0,0,0,False,
+1100,Mike Edmondson,associate,State attorney's spokesman,[],0,0,0,False,
+1101,Jack Goldberg,associate,Epstein's attorney,[],0,0,0,False,
+1102,Vicky Ward,associate,author of the article,[],0,0,0,False,
+1103,Jerry Goldsmith,associate,Contacted Jeffrey Epstein on 05/21/04,[],0,1,0,False,
+1104,Tatiana,associate,Recipient of telephone messages,[],0,0,0,False,
+1105,Jo Jo,associate,Caller from phone number 917 975 4500,[],0,0,0,False,
+1106,Johanna,associate,Caller or person associated with a message for Sarah,[],0,0,0,False,
+1107,Ms. George,associate,Caller regarding a letter about investing in Texaco,[],0,0,0,False,
+1108,Julia,associate,Sender of a message to Ed,[],0,0,0,False,
+1109,Miranda,associate,Made a phone call to JE on 02/08/03,[],0,0,0,False,
+1110,Patrick,associate,Caller who left a message for Sarah,[],0,0,0,False,
+1111,Brittany,associate,Attempted to contact Sarah,[],0,0,0,False,
+1112,Jennie Saunders,associate,Attempted to contact JE,[],0,0,0,False,
+1113,Derron,associate,Person who attempted to contact Mr. J.F.,[],0,0,0,False,
+1114,Claudia,associate,Representative of Nathan's office,[],0,0,0,False,
+1115,Sandra,associate,Caller who left a message for Jeffery,[],0,0,0,False,
+1116,Alice,associate,Caller who left a message for Jeffery,[],0,0,0,False,
+1117,Mr. Madelson,associate,Person who telephoned,[],0,0,0,False,
+1118,Svetlana,associate,Recipient of a call back request,[],0,0,0,False,
+1119,Dr. Moskowitz,associate,Medical doctor involved in Glen's care,[],0,1,0,False,
+1120,Anna,associate,Person discussed by Natalie regarding castor oil,[],0,0,0,False,
+1121,Eric Anderson,associate,Caller who left a message related to a mortgage loan,[],0,0,0,False,
+1122,Billy Barou,associate,Commenter on a social media profile,[],0,0,0,False,
+1123,Matt,associate,Person who caused injury to the other participant,[],0,0,0,False,
+1124,Dr. Beard,associate,Person of interest or relevance,[],0,0,0,False,
+1125,Timothy J. Ambrose,associate,Vice President of Institutional Advancement at Interlochen Center for the Arts,[],0,0,0,False,
+1126,Harry Beller,associate,"Secretary of AIR GHISLAINIK, INC.",[],0,0,0,False,
+1127,Keith E. Rooney,associate,"Notary Public, England & Wales",[],0,0,0,False,
+1128,Schoettle/Douglas,associate,Client with multiple transactions,[],0,0,0,False,
+1129,Doss/Michael,associate,Frequent client with multiple invoices,[],0,0,0,False,
+1130,Hall,associate,Employee under investigation,[],0,0,0,False,
+1131,MARTHA VAZQUEZ,associate,United States District Judge,[],0,0,0,False,
+1132,Moira Penza,associate,Former federal prosecutor and legal expert,[],0,0,0,False,
+1133,Chris Wagner,associate,Likely a flight instructor or supervisor,[],0,0,0,False,
+1134,Bhavna,associate,Customer service representative or agent handling the reissue,[],0,0,0,False,
+1135,HYPERION AIR INC,associate,Registered Owner,[],0,2,0,False,
+1136,JEGE INC,associate,Registered Owner of the aircraft N908JE,[],0,0,0,False,
+1137,Gary Johnson,associate,Outgoing Governor,[],0,0,0,False,
+1138,Ken Newton,associate,partner with Riviera Gaming Management Inc.,[],0,0,0,False,
+1139,Gavin Maloof,associate,member of influential Maloof family and donor to Richardson,[],0,0,0,False,
+1140,Anthony Correra,associate,President of Sandia Asset Management and donor,[],0,0,0,False,
+1141,Richard L. Fisher,associate,Law Partner and donor,[],0,0,0,False,
+1142,Carlos Gallegos Jr.,associate,Santa Fe businessman and donor,[],0,0,0,False,
+1143,Gerald Kessler,associate,CEO and donor,[],0,0,0,False,
+1144,Edward Garcia,associate,Albuquerque business owner and donor,[],0,0,0,False,
+1145,Edmund Healy,associate,"Donor, Real estate",[],0,0,0,False,
+1146,Maurine Dickey,associate,"Donor, Owner",[],0,0,0,False,
+1147,Tom Worrell,associate,"Donor, Real estate",[],0,0,0,False,
+1148,David L. Stone,associate,"Donor, Banker",[],0,0,0,False,
+1149,Diana MacArthur,associate,Business owner,[],0,0,0,False,
+1150,John M O'Quinn,associate,Attorney,[],0,0,0,False,
+1151,Ahmed Assed,associate,Attorney,[],0,0,0,False,
+1152,Tom Rutherford,associate,Bernalillo County commissioner and donor,[],0,0,0,False,
+1153,Trevor Loy,associate,Managing Partner and donor,[],0,0,0,False,
+1154,VinnY,associate,Person interacting with PIMP JUICE on Myspace,[],0,0,0,False,
+1155,Shaun Nedwick,associate,Recipient or sender of a message on 8/29/2005,[],0,0,0,False,
+1156,IGGY Mandy,associate,Commenter,[],0,0,0,False,
+1157,Jeffcy,associate,Recipient of messages,[],0,0,0,False,
+1158,Alan Greenspan,associate,Chairman Federal Reserve Board,[],0,0,0,False,
+1159,Barry Josephson,celebrity,"Hollywood producer (Bones, Enchanted); extensive post-conviction Epstein emails",['Barry & Jackie Josephson'],0,0,0,True,American
+1160,Matt Groening,celebrity,Creator of The Simpsons; named in Giuffre testimony about Epstein flight,['Matthew Abram Groening'],0,0,0,False,American
+1161,Diana Ross,celebrity,Legendary singer; appeared in DOJ-released photo from Epstein's home,['Diana Ernestine Earle Ross'],0,0,0,False,American
+1162,Cameron Diaz,celebrity,Actress; name-dropped by Epstein per witness testimony; denies any association,['Cameron Michelle Diaz'],0,0,0,False,American
+1163,Leonardo DiCaprio,celebrity,"Actor; name-dropped by Epstein in calls and emails, but no confirmed direct contact",['Leonardo Wilhelm DiCaprio'],0,0,0,False,American
+1164,Cate Blanchett,celebrity,"Australian actress; name-dropped by Epstein per witness testimony, no actual connection",['Catherine Elise Blanchett'],0,0,0,False,Australian
+1165,Tina Brown,celebrity,Former editor of Vanity Fair and The New Yorker; targeted by Epstein for critical coverage,"['Christina Hambley Brown', 'Lady Evans']",0,0,0,False,British-American
+1166,Janice Dickinson,celebrity,Supermodel and TV personality; listed in Epstein's black book,['Janice Doreen Dickinson'],0,0,0,True,American
+1167,Robert F. Kennedy Jr.,politician,"U.S. HHS Secretary; flew on Epstein's jet, listed in black book","['RFK Jr.', 'Bobby Kennedy']",0,0,0,True,American
+1168,John Glenn,politician,Former U.S. Senator and NASA astronaut; appeared in Epstein flight log (deceased),['John Herschel Glenn Jr.'],0,0,0,False,American
+1169,Chelsea Clinton,politician,"Vice Chair, Clinton Foundation; Maxwell attended her 2010 wedding","['Chelsea Victoria Clinton', 'Chelsea Clinton Mezvinsky']",0,0,0,False,American
+1170,Thorbjorn Jagland,politician,Former Norwegian PM and Nobel Committee Chairman; under corruption investigation for Epstein ties,[],0,0,0,False,Norwegian
+1171,Crown Princess Mette-Marit,royalty,"Crown Princess of Norway; 1,000+ mentions in Epstein files, publicly apologized","['Mette-Marit Tjessem Hoiby', 'Mette', 'Kronprinsessen', 'H.K.H. Kronprinsessen', 'HKH Kronprinsessen']",0,1,0,False,Norwegian
+1172,Ira Magaziner,politician,CEO of Clinton Health Access Initiative; flew on Epstein's Africa trip,['Ira Charles Magaziner'],0,0,0,True,American
+1173,Howard Lutnick,business,U.S. Commerce Secretary; business ties with Epstein through Adfin company,['Howard Wayne Lutnick'],0,0,0,False,American
+1174,Steven Tisch,business,Co-owner of NY Giants; 440+ mentions in Epstein DOJ files,"['Steve Tisch', 'Steven Elliot Tisch']",0,0,0,False,American
+1175,Eric Schmidt,business,"Former Google CEO; mentioned in 37 DOJ documents, mostly incidental",['Eric Emerson Schmidt'],0,0,0,False,American
+1176,Nathan Myhrvold,business,Former Microsoft CTO; black book (12 phones) and flight logs,['Nathan Paul Myhrvold'],0,1,0,True,American
+1177,John Paulson,business,Billionaire hedge fund manager; listed in Epstein's second black book,['John Alfred Paulson'],0,0,0,True,American
+1178,Kathryn Ruemmler,legal,Former Obama White House Counsel; resigned as Goldman Sachs CLO in Feb 2026 after Epstein ties exposed,"['Kathy Ruemmler', 'Kathryn Haun Ruemmler']",0,0,0,False,American
+1179,Peter Attia,academic,"Physician and longevity author; 1,700+ DOJ document mentions, apologized for emails","['Peter Attia, M.D.']",0,0,0,False,American
+1180,Dr. Mehmet Oz,celebrity,TV health personality and CMS Administrator; Epstein paid for his travel in 2004,['Mehmet Cengiz Oz'],0,0,0,False,American
+1181,Oliver Sacks,academic,Neurologist and bestselling author; attended Epstein's science dinner parties (deceased),['Oliver Wolf Sacks'],0,0,0,True,British-American
+1182,Daniel Dennett,academic,Philosopher and cognitive scientist; flew on Epstein's plane to TED (deceased),['Daniel Clement Dennett III'],0,0,0,False,American
+1183,Sandy Berger,politician,Former National Security Advisor; called Epstein after search warrant executed (deceased),['Samuel Richard Berger'],0,0,0,False,American
+1184,Andres Pastrana,politician,"Former President of Colombia; flew with Epstein, listed in black book",['Andres Pastrana Arango'],0,0,0,True,Colombian
+1185,Tim Zagat,business,"Co-founder of Zagat; flew on Epstein's jet, post-conviction dinner contact",[],0,0,0,False,American
+1186,Nina Zagat,business,Co-founder of Zagat; flew on Epstein's jet to TED conference,['Nina Safronoff Zagat'],0,0,0,False,American
+1187,Forrest Sawyer,celebrity,Former ABC/NBC News anchor; appeared on Epstein flight manifest,['Forest Sawyer'],0,0,0,False,American
+1188,Kenneth Lipper,business,"Former NYC Deputy Mayor; flew on Epstein's plane, Harvard philanthropy ties",[],0,0,0,False,American
+1189,Katrina vanden Heuvel,celebrity,Editor and publisher of The Nation; listed in Epstein's black book,[],0,0,0,True,American
+1190,Eileen Guggenheim,academic,Academic and art world figure; appeared on Epstein flight logs,[],0,0,0,False,American
+1191,Warren Spector,business,Former Bear Stearns co-president; named in Epstein flight logs,[],0,0,0,False,American
+1192,Brian Mathis,business,Private equity investor; named in Epstein flight logs,[],0,0,0,False,American
+1193,Frederic Fekkai,celebrity,Celebrity hairstylist; named in Epstein flight logs,[],0,0,0,False,French-American
+1194,Nadia Bjorlin,celebrity,Actress (Days of Our Lives); named in Epstein flight logs,[],0,0,0,False,Swedish-American
+1195,Ariane de Rothschild,business,CEO of Edmond de Rothschild Group; $25M business deal with Epstein's company,['Baroness de Rothschild'],0,0,0,False,French
+1196,Adam Back,business,Blockstream CEO and Hashcash inventor named in Epstein investment emails,['Andy Back'],0,0,0,False,British
+1197,Austin Hill,business,Blockstream co-founder who directly corresponded with Epstein,[],0,0,0,False,Canadian
+1198,Amir Taaki,business,Early Bitcoin developer contacted directly by Epstein in 2011,[],0,0,0,False,British-Iranian
+1199,Brock Pierce,business,Tether co-founder with extensive documented Epstein contact (2010-2019),[],0,0,0,False,American
+1200,Gavin Andresen,business,Bitcoin lead maintainer who declined Epstein's 2011 meeting invitation,[],0,0,0,False,American
+1201,Jason Calacanis,business,Tech investor who connected Epstein to Bitcoin developers in 2011,[],0,0,0,False,American
+1202,Jeremy Rubin,academic,MIT Bitcoin Club co-founder who pitched Epstein on crypto investments,[],0,0,0,False,American
+1203,Bryan Bishop,business,Bitcoin developer who pitched Epstein on designer baby venture in 2018,[],0,0,0,False,American
+1204,Deepak Chopra,celebrity,Wellness author who met Epstein 12+ times and exchanged extensive emails,[],0,0,0,False,Indian-American
+1205,Josh Harris,business,Apollo co-founder and NFL/NBA owner; business emails with Epstein (2013-2016),['Joshua J. Harris'],0,0,0,False,American
+1206,Marc Rowan,business,Apollo CEO who exchanged emails and financial documents with Epstein,[],0,0,0,False,American
+1207,Todd Boehly,business,Chelsea FC owner who had two business meetings with Epstein in 2011,[],0,0,0,False,American
+1208,John Phelan,politician,U.S. Navy Secretary who flew on Epstein's Boeing 727 in 2006,[],0,0,0,False,American
+1209,Martha Stewart,celebrity,Media mogul named in Epstein calendar entries and dinner invitations,[],0,0,0,False,American
+1210,Al Seckel,associate,Illusionist who co-organized Epstein's island conference; married to Isabel Maxwell,[],0,0,0,False,American
+1211,Michael Saylor,business,MicroStrategy founder mentioned in Epstein-related charity event email,[],0,0,0,False,American
+1212,Casey Wasserman,business,LA28 Olympics chairman with documented Maxwell correspondence,[],0,0,0,False,American
+1213,Fred Ehrsam,business,Coinbase co-founder who discussed meeting Epstein during 2014 investment,[],0,0,0,False,American
+1214,Brad Karp,legal,Paul Weiss chairman who helped Epstein with plea strategy; resigned Feb 2026,['Brad S. Karp'],0,0,0,False,American
+1215,Miroslav Lajcak,politician,Slovak national security adviser and ex-UN GA president; resigned over Epstein texts,['Miroslav Lajčák'],0,0,0,False,Slovak
+1216,Jack Lang,politician,Former French culture minister; 600+ file mentions; resigned Feb 2026,[],0,0,0,False,French
+1217,Caroline Lang,celebrity,French film producer and Jack Lang's daughter; under French investigation,[],0,0,0,False,French
+1218,Joanna Rubinstein,other,Swedish UNHCR chair who visited Epstein's island in 2012; resigned Feb 2026,[],0,0,0,False,Swedish
+1219,Borge Brende,business,World Economic Forum CEO under investigation for Epstein dinners,['Børge Brende'],0,0,0,False,Norwegian
+1220,David A. Ross,other,Former Whitney Museum director; post-conviction Epstein friend; resigned Feb 2026,[],0,0,0,False,American
+1221,Hardeep Singh Puri,politician,Indian politician who met Epstein at Manhattan townhouse three times,[],0,0,0,False,Indian
+1222,Kevin Rudd,politician,Former Australian PM on Epstein's 2014 meeting schedule,['Kevin Michael Rudd'],0,0,0,False,Australian
+1223,Masha Drokova,business,"Russian VC and Epstein's publicist; 1,000+ file mentions","['Maria Drokova', 'Masha Bucher']",0,0,0,False,Russian-American
+1224,Mark Zuckerberg,business,Meta CEO who attended 2015 dinner arranged via Epstein's assistant,['Mark Elliot Zuckerberg'],0,1,0,False,American
+1225,Dan Ariely,academic,Duke behavioral economist named 636 times in Epstein DOJ files,[],0,0,0,False,Israeli-American
+1226,Murray Gell-Mann,academic,"Nobel physicist; longtime Epstein friend, black book, island visitor",[],0,0,0,True,American
+1227,Nicholas Negroponte,academic,MIT Media Lab co-founder who recommended accepting Epstein donations,[],0,0,0,False,American
+1228,Richard Dawkins,academic,Evolutionary biologist who flew on Epstein's jet to TED in 2002,[],0,0,0,False,British
+1229,Stephen Kosslyn,academic,Harvard psych dean who received $200K and sought fellowship for Epstein,[],0,0,0,False,American
+1230,Howard Gardner,academic,Harvard education professor who received Epstein funding and maintained post-conviction contact,[],0,0,0,False,American
+1231,Nicholas Christakis,academic,Yale sociologist who met Epstein in 2013 and corresponded through 2016,['Nicholas Alexander Christakis'],0,0,0,False,American
+1232,David Gelernter,academic,Yale CS professor who called Epstein one of the smartest men he met,['David Hillel Gelernter'],0,0,0,False,American
+1233,Corina Tarnita,academic,Princeton ecologist mentioned 344+ times in Epstein DOJ files,['Corina Elena Tarnita'],0,0,0,False,Romanian-American
+1234,Leon Botstein,academic,Bard College president; Epstein flew 'girls' to campus by helicopter in 2013,[],0,0,0,False,American
+1235,Nathan Wolfe,academic,Stanford virologist who proposed Epstein fund sexual behavior study,['Nathan Daniel Wolfe'],0,0,0,False,American
+1236,Mark Tramo,academic,UCLA neurologist who received $100K from Epstein and shared student info,['Mark Jude Tramo'],0,0,0,False,American
+1237,Jack Horner,academic,Renowned paleontologist who visited Epstein's Zorro Ranch in 2012,['John Robert Horner'],0,0,0,False,American
+1238,Antonio Damasio,academic,USC neuroscientist who requested Epstein research funding in 2013,['Antonio Rosa Damasio'],0,0,0,False,Portuguese-American
+1239,Frank Wilczek,academic,Nobel physicist who attended Epstein-funded 2006 gravity conference,[],0,0,0,False,American
+1240,Kip Thorne,academic,Nobel physicist who attended Epstein-funded 2006 conference,[],0,0,0,False,American
+1241,Christof Koch,academic,Neuroscientist who attended Epstein's 2011 island Mindshift Conference,[],0,0,0,False,American
+1242,Gerald Sussman,academic,MIT professor who attended Epstein's 2011 island conference,['Gerald Jay Sussman'],0,0,0,False,American
+1243,David Gross,academic,Nobel physicist who attended Epstein-funded 2006 gravity conference,[],0,0,0,False,American
+1244,Gerard 't Hooft,academic,Dutch Nobel physicist who attended Epstein-funded 2006 conference,"[""Gerardus 't Hooft""]",0,0,0,False,Dutch
+1245,Elie Wiesel,academic,Nobel Peace laureate and Holocaust survivor listed in Epstein's contact book,['Eliezer Wiesel'],0,0,0,True,Romanian-American
+1246,Nili Priel,other,Wife of ex-Israeli PM Ehud Barak who coordinated stays at Epstein's apartment,[],0,0,0,False,Israeli
+1247,Mira Nair,celebrity,Filmmaker whose film afterparty was held at Maxwell's townhouse in 2009,[],0,0,0,False,Indian-American
+1248,Larry Page,business,Google co-founder mentioned hundreds of times in Epstein materials,['Lawrence Edward Page'],0,0,0,False,American
+1249,Bernie Steinberg,academic,Former Harvard Hillel director who solicited Epstein donations post-conviction,['Bernard Steinberg'],0,0,0,False,American
+1250,Alastair Campbell,politician,Blair's press secretary; 1 black book number (Downing St switchboard); met Epstein once via Maxwell,['Alistar Cambell'],0,0,0,True,British
+1251,Casey Tegreene,business,"Intellectual Ventures patent chief; in EFTA email thread with Walker, Gates",[],0,1,0,False,American
+1252,Pinchas Buchris,military-intelligence,Former Unit 8200 director; Carbyne board member; described Epstein investment concealment,[],0,0,0,False,Israeli
+1253,Mona Juul,politician,Norwegian ambassador to Jordan; resigned over Epstein ties after DOJ release,[],0,0,0,False,Norwegian
+1254,Christian Kjaer,associate,Danish businessman; owned Great St. James island; Epstein used fraud to circumvent his refusal to sell,[],0,0,0,False,Danish
+1255,Ro Khanna,politician,U.S. Representative; read six redacted Epstein names into Congressional Record,[],0,0,0,False,American
+1256,Thomas Massie,politician,U.S. Representative; unmasked six DOJ-redacted names using congressional immunity,[],0,0,0,False,American
+1257,Bella Klein,associate,Epstein's accountant; daughters' tuition paid by Epstein,[],0,0,0,False,American
+1258,Billy Dimauro,associate,Likely Epstein co-pilot; appeared on 2 flights in 2013,[],2,0,0,False,
+1259,Salvatore Nuara,other,Retired NYPD detective; named on FBI co-conspirator list; unredacted by Congress (Feb 2026),[],0,0,0,True,American
+1260,Zurab Mikeladze,other,Named on FBI co-conspirator list; unredacted by Congress (Feb 2026); identity unconfirmed,[],0,0,0,False,
+1261,Leonic Leonov,other,Named on FBI co-conspirator list; unredacted by Congress (Feb 2026); identity unknown,[],0,0,0,False,
+1262,Nicola Caputo,other,Named on FBI co-conspirator list; unredacted by Congress (Feb 2026); identity disputed,[],0,0,0,False,
+1263,Hillary Clinton,politician,Former Secretary of State; scheduled for House Oversight Epstein deposition (Feb 2026),['Hillary Rodham Clinton'],0,0,0,False,American

@@ -1,9 +1,5 @@
 /*
-Get 0 column in csv, Country name
-get 2 column in csv, Ladder score
-Show text for each country name
-show happiness score in circle size
-use AI to make it cool!
+PROBABLY NOT GOING TO USE THE JSON FILE, BUT KEEPING IT HERE JUST INCASE
 */
 
 let table;

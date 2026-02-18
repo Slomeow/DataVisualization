@@ -1,112 +1,197 @@
 /*
-Get 0 column in csv, Country name
-get 2 column in csv, Ladder score
-Show text for each country name
-show happiness score in circle size
-use AI to make it cool!
+Get Name from csv
+Get Documents from csv
+Show text for each person name
+show document count in bar graph
+
 */
 
 let table;
-let country, happiness;
-let minHappiness, maxHappiness;
-let countriesData = [];
+let personNames, documents, flights;
+let minDocuments, maxDocuments, minFlights, maxFlights;
+let peopleData = [];
+let currentMetric = 'documents';
+let toggleMetricButton;
+const MAX_ROWS = 160;
 
 
 async function setup() {
   createCanvas(windowWidth, windowHeight);
-  table = await loadTable('/Data/World-happiness-report-2024.csv', ',', 'header');
+  table = await loadTable('/Data/epstein-persons-2026-02-13_cleaned.csv', ',', 'header');
   console.log(table);
 
-  country = table.getColumn(0);
-  happiness = table.getColumn(2).map((value) => parseFloat(value));
-
-  minHappiness = min(happiness);
-  maxHappiness = max(happiness);
+  personNames = table.getColumn('Name');
+  documents = table.getColumn(6).map((value) => parseFloat(value));
+  flights = table.getColumn(5).map((value) => parseFloat(value));
+  let rowLimit = min(MAX_ROWS, table.getRowCount());
+  documents = documents.slice(0, rowLimit);
+  flights = flights.slice(0, rowLimit);
+  personNames = personNames.slice(0, rowLimit);
 
   textFont('Roboto');
   textAlign(CENTER, CENTER);
 
-  countriesData = [];
-  for (let i = 0; i < table.getRowCount(); i++) {
-    let score = happiness[i];
+  peopleData = [];
+  for (let i = 0; i < rowLimit; i++) {
+    let docCount = documents[i];
+    let flightCount = flights[i];
 
-    if (isNaN(score)) {
+    if (isNaN(docCount) && isNaN(flightCount)) {
       continue;
     }
 
-    countriesData.push({
-      name: country[i],
-      score,
-      x: random(width),
-      y: random(height)
+    peopleData.push({
+      name: personNames[i],
+      documents: isNaN(docCount) ? 0 : docCount,
+      flights: isNaN(flightCount) ? 0 : flightCount
     });
   }
+
+  minDocuments = min(peopleData.map((item) => item.documents));
+  maxDocuments = max(peopleData.map((item) => item.documents));
+  minFlights = min(peopleData.map((item) => item.flights));
+  maxFlights = max(peopleData.map((item) => item.flights));
+
+  sortPeopleData();
+  createMetricToggleButton();
 }
 
-function getCircleDiameter(score) {
-  return score * width * 0.01;
+function sortPeopleData() {
+  peopleData.sort((a, b) => getMetricValue(b) - getMetricValue(a));
 }
 
-function getHoveredCountry() {
-  let hoveredCountry = null;
-  let closestDistance = Infinity;
+function getMetricValue(item) {
+  return currentMetric === 'documents' ? item.documents : item.flights;
+}
 
-  for (let i = 0; i < countriesData.length; i++) {
-    let item = countriesData[i];
-    let radius = getCircleDiameter(item.score) / 2;
-    let distanceToMouse = dist(mouseX, mouseY, item.x, item.y);
+function getMetricMax() {
+  return currentMetric === 'documents' ? maxDocuments : maxFlights;
+}
 
-    if (distanceToMouse <= radius && distanceToMouse < closestDistance) {
-      hoveredCountry = item;
-      closestDistance = distanceToMouse;
-    }
+function getMetricMin() {
+  return currentMetric === 'documents' ? minDocuments : minFlights;
+}
+
+function getMetricLabel() {
+  return currentMetric === 'documents' ? 'documents' : 'flights';
+}
+
+function getMetricScaleMax() {
+  let values = peopleData
+    .map((item) => getMetricValue(item))
+    .filter((value) => !isNaN(value))
+    .sort((a, b) => a - b);
+
+  if (values.length === 0) {
+    return 1;
   }
 
-  return hoveredCountry;
+  let percentileIndex = floor((values.length - 1) * 0.95);
+  let percentileValue = values[percentileIndex];
+  return max(1, percentileValue);
+}
+
+function createMetricToggleButton() {
+  toggleMetricButton = createButton('Switch to Flights');
+  toggleMetricButton.position(16, 12);
+  toggleMetricButton.mousePressed(() => {
+    currentMetric = currentMetric === 'documents' ? 'flights' : 'documents';
+    toggleMetricButton.html(currentMetric === 'documents' ? 'Switch to Flights' : 'Switch to Documents');
+    sortPeopleData();
+  });
+}
+
+function getHoveredIndex(topPadding, bottomPadding) {
+  let rowHeight = (height - topPadding - bottomPadding) / peopleData.length;
+  if (mouseY < topPadding || mouseY > height - bottomPadding) {
+    return -1;
+  }
+
+  let hoveredIndex = floor((mouseY - topPadding) / rowHeight);
+  if (hoveredIndex < 0 || hoveredIndex >= peopleData.length) {
+    return -1;
+  }
+
+  return hoveredIndex;
 }
 
 function draw() {
-  background(220);
-  textSize(12);
+  background(245);
 
-  let hoveredCountry = getHoveredCountry();
-
-  if(table){
-    for (let i = 0; i < countriesData.length; i++) {
-        let item = countriesData[i];
-        let greenAmount = map(item.score, minHappiness, maxHappiness, 0, 1);
-        let diameter = getCircleDiameter(item.score);
-
-        if (hoveredCountry === item) {
-          diameter *= 1.25;
-        }
-
-        noStroke();
-        fill(lerpColor(color(255, 0, 0), color(0, 255, 0), greenAmount));
-        circle(item.x, item.y, diameter);
-
-        fill(0);
-        text(item.name, item.x, item.y);
-    }
+  if (!table || peopleData.length === 0) {
+    return;
   }
 
-  if (hoveredCountry) {
-    let label = `${hoveredCountry.name}: ${nf(hoveredCountry.score, 1, 2)}`;
-    textSize(14);
+  let topPadding = 30;
+  let bottomPadding = 36;
+  let chartLeft = 0;
+  let chartRight = width;
+  let chartWidth = chartRight - chartLeft;
+  let rowHeight = (height - topPadding - bottomPadding) / peopleData.length;
+  let barHeight = max(1, rowHeight * 0.72);
+  let nameTextSize = constrain(rowHeight * 0.55, 8, 12);
+  let hoveredIndex = getHoveredIndex(topPadding, bottomPadding);
+  let metricMax = getMetricMax();
+  let metricMin = getMetricMin();
+  let metricLabel = getMetricLabel();
+  let metricScaleMax = getMetricScaleMax();
 
-    let padding = 8;
-    let tooltipWidth = textWidth(label) + padding * 2;
-    let tooltipHeight = 28;
-    let tooltipX = constrain(mouseX + 14, 0, width - tooltipWidth);
-    let tooltipY = constrain(mouseY - 34, 0, height - tooltipHeight);
+  fill(20);
+  textSize(18);
+  textAlign(CENTER, CENTER);
+  text(`Viewing: ${metricLabel.charAt(0).toUpperCase() + metricLabel.slice(1)}`, width / 2, 16);
 
-    fill(255, 240);
-    rect(tooltipX, tooltipY, tooltipWidth, tooltipHeight, 6);
+  stroke(210);
+  line(chartLeft, height - bottomPadding + 10, chartRight, height - bottomPadding + 10);
+  noStroke();
 
+  fill(30);
+  textSize(12);
+  textAlign(LEFT, CENTER);
+  text('0', chartLeft + 4, height - bottomPadding + 22);
+  textAlign(RIGHT, CENTER);
+  text(nf(metricScaleMax, 1, 0), chartRight - 4, height - bottomPadding + 22);
+
+  textSize(nameTextSize);
+  for (let i = 0; i < peopleData.length; i++) {
+    let item = peopleData[i];
+    let metricValue = getMetricValue(item);
+    let rowY = topPadding + i * rowHeight;
+    let y = rowY + (rowHeight - barHeight) / 2;
+    let barWidth = map(metricValue, 0, metricScaleMax, 0, chartWidth);
+    let greenAmount = map(metricValue, metricMin, metricMax, 0, 1);
+
+    if (i === hoveredIndex) {
+      fill(230, 240, 255);
+      rect(chartLeft, rowY, chartWidth, rowHeight);
+    }
+
+    noStroke();
+    fill(lerpColor(color(255, 120, 120), color(120, 210, 120), greenAmount));
+    rect(chartLeft, y, barWidth, barHeight);
+
+    stroke(255, 220);
+    strokeWeight(2);
     fill(20);
     textAlign(LEFT, CENTER);
-    text(label, tooltipX + padding, tooltipY + tooltipHeight / 2);
-    textAlign(CENTER, CENTER);
+    text(item.name, chartLeft + 6, rowY + rowHeight / 2);
+    noStroke();
+
+    if (i === hoveredIndex) {
+      let tooltip = `${item.name}: ${nf(metricValue, 1, 0)} ${metricLabel}`;
+      let padding = 8;
+      let tooltipWidth = textWidth(tooltip) + padding * 2;
+      let tooltipHeight = 24;
+      let tooltipX = constrain(mouseX + 12, 0, width - tooltipWidth);
+      let tooltipY = constrain(mouseY - 30, 0, height - tooltipHeight);
+
+      fill(255, 245);
+      rect(tooltipX, tooltipY, tooltipWidth, tooltipHeight, 4);
+      fill(20);
+      textAlign(LEFT, CENTER);
+      text(tooltip, tooltipX + padding, tooltipY + tooltipHeight / 2);
+      textSize(nameTextSize);
+    }
   }
 }
 
