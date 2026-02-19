@@ -30,8 +30,9 @@ async function setup() {
   flights = table.getColumn(5).map((value) => parseFloat(value));
   let rowLimit = table.getRowCount();
 
-  textFont('Roboto');
+  textFont('Courier New');
   textAlign(CENTER, CENTER);
+  textStyle(BOLD);
 
   let allPeopleData = [];
   for (let i = 0; i < rowLimit; i++) {
@@ -147,13 +148,21 @@ function draw() {
 
   let topPadding = 30;
   let bottomPadding = max(250, height * 0.36);
-  let chartLeft = 0;
-  let chartRight = width;
-  let chartWidth = chartRight - chartLeft;
   let visibleRows = max(1, floor((height - topPadding - bottomPadding) / ROW_HEIGHT));
   clampScrollIndex(currentData.length, visibleRows);
   let barHeight = max(1, ROW_HEIGHT * 0.9);
   let nameTextSize = constrain(ROW_HEIGHT * 0.52, 10, 14);
+  textSize(nameTextSize);
+  let maxNameWidth = 0;
+  for (let item of currentData) {
+    maxNameWidth = max(maxNameWidth, textWidth(item.name || ''));
+  }
+  let nameColumnPadding = 12;
+  let barStartGap = 12;
+  let nameColumnWidth = constrain(maxNameWidth + nameColumnPadding * 1, 180, width * 0.15);
+  let chartLeft = min(width - 80, nameColumnWidth + barStartGap);
+  let chartRight = width - 8;
+  let chartWidth = max(1, chartRight - chartLeft);
   let hoveredIndex = getHoveredIndex(topPadding, visibleRows);
   let metricMax = getMetricMax();
   let metricMin = getMetricMin();
@@ -174,7 +183,7 @@ function draw() {
   fill(30);
   textSize(12);
   textAlign(LEFT, CENTER);
-  text('0', chartLeft + 4, height - bottomPadding + 22);
+  text('0', chartLeft + 2, height - bottomPadding + 22);
   textAlign(RIGHT, CENTER);
   text(nf(metricScaleMax, 1, 0), chartRight - 4, height - bottomPadding + 22);
 
@@ -187,22 +196,22 @@ function draw() {
     let rowY = topPadding + visibleRowIndex * ROW_HEIGHT;
     let y = rowY + (ROW_HEIGHT - barHeight) / 2;
     let barWidth = map(metricValue, 0, metricScaleMax, 0, chartWidth);
-    let greenAmount = map(metricValue, metricMin, metricMax, 0, 1);
+   // let greenAmount = map(metricValue, metricMin, metricMax, 0, 1);
 
     if (i === hoveredIndex) {
-      fill(230, 240, 255);
-      rect(chartLeft, rowY, chartWidth, ROW_HEIGHT);
+      fill(255, 255, 170);
+      rect(0, rowY, width, ROW_HEIGHT);
     }
 
     noStroke();
-    fill(lerpColor(color(255, 120, 120), color(120, 210, 120), greenAmount));
+    fill(0, 255 * 0, 0);
     rect(chartLeft, y, barWidth, barHeight);
 
-    stroke(255, 220);
-    strokeWeight(2);
+    stroke(100, 100, 100);
+    strokeWeight(0.5);
     fill(20);
-    textAlign(LEFT, CENTER);
-    text(item.name, chartLeft + 6, rowY + ROW_HEIGHT / 2);
+    textAlign(RIGHT, CENTER);
+    text(item.name, chartLeft - 8, rowY + ROW_HEIGHT / 2);
     noStroke();
 
     if (i === hoveredIndex) {

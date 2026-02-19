@@ -1,10 +1,18 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
-
 html, body {
-  font-family: roboto, sans-serif;
+}
+
+html, main{
+  font-family: Consolas, "Courier New", Courier, monospace;
+  /* font-family: roboto, sans-serif; */
   margin: 0;
   padding: 0;
 }
+
+body,
+button {
+  font-family: Consolas, "Courier New", Courier, monospace;
+}
+
 canvas {
   display: block;
 }
