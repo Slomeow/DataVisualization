@@ -13,9 +13,15 @@ let flightsTopData = [];
 let currentMetric = 'documents';
 let toggleMetricButton;
 let scrollStartIndex = 0;
+let barRevealProgress = {};
+let isDraggingScrollbar = false;
+let scrollbarDragOffsetY = 0;
+const BAR_ANIMATION_SPEED = 0.03;
 const TOP_DOCS_N = 198;
 const TOP_FLIGHTS_N = 96;
-const ROW_HEIGHT = 24;
+const ROW_HEIGHT = 40;
+const SCROLLBAR_X = 8;
+const SCROLLBAR_WIDTH = 10;
 
 
 async function setup() {
@@ -103,9 +109,21 @@ function getMetricScaleMax() {
     return 1;
   }
 
-  let percentileIndex = floor((values.length - 1) * 1);
+  let percentileIndex = floor((values.length - 1) * 0.99);
   let percentileValue = values[percentileIndex];
   return max(1, percentileValue);
+}
+
+function getBarKey(item) {
+  return `${currentMetric}::${item.name}`;
+}
+
+function advanceBarAnimations() {
+  for (let key in barRevealProgress) {
+    if (barRevealProgress[key] > 0 && barRevealProgress[key] < 1) {
+      barRevealProgress[key] = min(1, barRevealProgress[key] + BAR_ANIMATION_SPEED);
+    }
+  }
 }
 
 function createMetricToggleButton() {
@@ -137,8 +155,71 @@ function clampScrollIndex(totalRows, visibleRows) {
   scrollStartIndex = constrain(scrollStartIndex, 0, maxStart);
 }
 
+function getViewportLayout() {
+  let topPadding = 30;
+  let bottomPadding = max(20, height * 0.05);
+  let visibleRows = max(1, floor((height - topPadding - bottomPadding) / ROW_HEIGHT));
+  return { topPadding, bottomPadding, visibleRows };
+}
+
+function getScrollbarGeometry(totalRows, visibleRows, topPadding) {
+  let trackX = SCROLLBAR_X;
+  let trackY = topPadding;
+  let trackWidth = SCROLLBAR_WIDTH;
+  let trackHeight = visibleRows * ROW_HEIGHT;
+  let maxStart = max(0, totalRows - visibleRows);
+
+  let thumbHeight = trackHeight;
+  if (totalRows > 0) {
+    thumbHeight = max(24, trackHeight * min(1, visibleRows / totalRows));
+  }
+  thumbHeight = min(thumbHeight, trackHeight);
+
+  let thumbY = trackY;
+  if (maxStart > 0 && trackHeight > thumbHeight) {
+    let ratio = scrollStartIndex / maxStart;
+    thumbY = trackY + ratio * (trackHeight - thumbHeight);
+  }
+
+  return {
+    trackX,
+    trackY,
+    trackWidth,
+    trackHeight,
+    thumbY,
+    thumbHeight,
+    maxStart
+  };
+}
+
+function drawScrollBar(totalRows, visibleRows, topPadding) {
+  let geom = getScrollbarGeometry(totalRows, visibleRows, topPadding);
+
+  noStroke();
+  fill(220);
+  rect(geom.trackX, geom.trackY, geom.trackWidth, geom.trackHeight, 6);
+
+  let thumbColor = isDraggingScrollbar ? 60 : 90;
+  fill(thumbColor);
+  rect(geom.trackX, geom.thumbY, geom.trackWidth, geom.thumbHeight, 6);
+}
+
+function setScrollFromThumbY(thumbY, geom) {
+  if (geom.maxStart <= 0 || geom.trackHeight <= geom.thumbHeight) {
+    scrollStartIndex = 0;
+    return;
+  }
+
+  let minY = geom.trackY;
+  let maxY = geom.trackY + geom.trackHeight - geom.thumbHeight;
+  let clampedY = constrain(thumbY, minY, maxY);
+  let ratio = (clampedY - minY) / (maxY - minY);
+  scrollStartIndex = round(ratio * geom.maxStart);
+}
+
 function draw() {
   background(245);
+  advanceBarAnimations();
 
   let currentData = getCurrentPeopleData();
 
@@ -146,19 +227,17 @@ function draw() {
     return;
   }
 
-  let topPadding = 30;
-  let bottomPadding = max(250, height * 0.36);
-  let visibleRows = max(1, floor((height - topPadding - bottomPadding) / ROW_HEIGHT));
+  let { topPadding, bottomPadding, visibleRows } = getViewportLayout();
   clampScrollIndex(currentData.length, visibleRows);
   let barHeight = max(1, ROW_HEIGHT * 0.9);
-  let nameTextSize = constrain(ROW_HEIGHT * 0.52, 10, 14);
+  let nameTextSize = constrain(ROW_HEIGHT * 1.25, 12, 14);
   textSize(nameTextSize);
   let maxNameWidth = 0;
   for (let item of currentData) {
     maxNameWidth = max(maxNameWidth, textWidth(item.name || ''));
   }
   let nameColumnPadding = 12;
-  let barStartGap = 12;
+  let barStartGap = 16;
   let nameColumnWidth = constrain(maxNameWidth + nameColumnPadding * 1, 180, width * 0.15);
   let chartLeft = min(width - 80, nameColumnWidth + barStartGap);
   let chartRight = width - 8;
@@ -196,6 +275,16 @@ function draw() {
     let rowY = topPadding + visibleRowIndex * ROW_HEIGHT;
     let y = rowY + (ROW_HEIGHT - barHeight) / 2;
     let barWidth = map(metricValue, 0, metricScaleMax, 0, chartWidth);
+    let barKey = getBarKey(item);
+    if (barRevealProgress[barKey] === undefined) {
+      barRevealProgress[barKey] = 0;
+    }
+
+    if (i === hoveredIndex && barRevealProgress[barKey] === 0) {
+      barRevealProgress[barKey] = 0.001;
+    }
+
+    let animatedBarWidth = barWidth * barRevealProgress[barKey];
    // let greenAmount = map(metricValue, metricMin, metricMax, 0, 1);
 
     if (i === hoveredIndex) {
@@ -205,7 +294,16 @@ function draw() {
 
     noStroke();
     fill(0, 255 * 0, 0);
-    rect(chartLeft, y, barWidth, barHeight);
+    rect(chartLeft, y, animatedBarWidth, barHeight);
+
+    if (barRevealProgress[barKey] >= 1 && barWidth > 20) {
+      let valueText = `${nf(metricValue, 1, 0)}`;
+      fill(255);
+      textSize(constrain(ROW_HEIGHT * 0.45, 10, 14));
+      textAlign(RIGHT, CENTER);
+      text(valueText, chartLeft + barWidth - 5, rowY + ROW_HEIGHT / 2);
+      textSize(nameTextSize);
+    }
 
     stroke(100, 100, 100);
     strokeWeight(0.5);
@@ -233,14 +331,13 @@ function draw() {
     }
   }
 
+  drawScrollBar(currentData.length, visibleRows, topPadding);
   drawHoverInfoPanel(hoveredItem, hoveredMetricValue, metricLabel);
 }
 
 function mouseWheel(event) {
   let currentData = getCurrentPeopleData();
-  let topPadding = 30;
-  let bottomPadding = max(250, height * 0.36);
-  let visibleRows = max(1, floor((height - topPadding - bottomPadding) / ROW_HEIGHT));
+  let { topPadding, visibleRows } = getViewportLayout();
 
   if (mouseY >= topPadding && mouseY <= topPadding + visibleRows * ROW_HEIGHT) {
     if (event.delta > 0) {
@@ -252,6 +349,45 @@ function mouseWheel(event) {
     clampScrollIndex(currentData.length, visibleRows);
     return false;
   }
+}
+
+function mousePressed() {
+  let currentData = getCurrentPeopleData();
+  let { topPadding, visibleRows } = getViewportLayout();
+  let geom = getScrollbarGeometry(currentData.length, visibleRows, topPadding);
+
+  let overTrack = mouseX >= geom.trackX && mouseX <= geom.trackX + geom.trackWidth &&
+    mouseY >= geom.trackY && mouseY <= geom.trackY + geom.trackHeight;
+
+  if (!overTrack || geom.maxStart <= 0) {
+    return;
+  }
+
+  let overThumb = mouseY >= geom.thumbY && mouseY <= geom.thumbY + geom.thumbHeight;
+  if (overThumb) {
+    isDraggingScrollbar = true;
+    scrollbarDragOffsetY = mouseY - geom.thumbY;
+    return;
+  }
+
+  setScrollFromThumbY(mouseY - geom.thumbHeight / 2, geom);
+  isDraggingScrollbar = true;
+  scrollbarDragOffsetY = geom.thumbHeight / 2;
+}
+
+function mouseDragged() {
+  if (!isDraggingScrollbar) {
+    return;
+  }
+
+  let currentData = getCurrentPeopleData();
+  let { topPadding, visibleRows } = getViewportLayout();
+  let geom = getScrollbarGeometry(currentData.length, visibleRows, topPadding);
+  setScrollFromThumbY(mouseY - scrollbarDragOffsetY, geom);
+}
+
+function mouseReleased() {
+  isDraggingScrollbar = false;
 }
 
 function drawHoverInfoPanel(item, metricValue, metricLabel) {
