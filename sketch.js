@@ -12,6 +12,7 @@ let documentsTopData = [];
 let flightsTopData = [];
 let currentMetric = 'documents';
 let toggleMetricButton;
+let pageFlipSound;
 let scrollStartIndex = 0;
 let barRevealProgress = {};
 let horizontalScrollX = 0;
@@ -30,6 +31,8 @@ const SCROLLBAR_WIDTH = 12;
 async function setup() {
   createCanvas(windowWidth, windowHeight);
   table = await loadTable('/Data/epstein-persons-2026-02-13_cleaned.csv', ',', 'header');
+  pageFlipSound = new Audio('/Sound/page-flip-01a.mp3');
+  pageFlipSound.preload = 'auto';
   console.log(table);
 
   personNames = table.getColumn('Name');
@@ -132,13 +135,42 @@ function advanceBarAnimations() {
 function createMetricToggleButton() {
   toggleMetricButton = createButton('Switch to Flights');
   toggleMetricButton.addClass('folder-tab-button');
-  toggleMetricButton.position(16, 12);
   toggleMetricButton.mousePressed(() => {
+    if (pageFlipSound) {
+      pageFlipSound.currentTime = 0;
+      pageFlipSound.play().catch(() => { });
+    }
+
     currentMetric = currentMetric === 'documents' ? 'flights' : 'documents';
     toggleMetricButton.html(currentMetric === 'documents' ? 'Switch to Flights' : 'Switch to Documents');
     scrollStartIndex = 0;
     horizontalScrollX = 0;
   });
+
+  positionMetricToggleButton();
+}
+
+function getInfoPanelGeometry() {
+  let panelWidth = min(460, width * 0.42);
+  let panelHeight = min(210, height * 0.33);
+  let panelX = width - panelWidth - 25;
+  let panelY = height - panelHeight - 25;
+  let tabWidth = min(220, panelWidth * 0.58);
+  let tabHeight = 34;
+
+  return { panelWidth, panelHeight, panelX, panelY, tabWidth, tabHeight };
+}
+
+function positionMetricToggleButton() {
+  if (!toggleMetricButton) {
+    return;
+  }
+
+  let { panelX, panelY } = getInfoPanelGeometry();
+  let buttonHeight = toggleMetricButton.elt ? toggleMetricButton.elt.offsetHeight : 0;
+  let buttonX = panelX + 2;
+  let buttonY = panelY - buttonHeight + 2;
+  toggleMetricButton.position(buttonX, buttonY);
 }
 
 function getHoveredIndex(topPadding, visibleRows) {
@@ -220,7 +252,7 @@ function drawScrollBar(totalRows, visibleRows, topPadding) {
   let geom = getScrollbarGeometry(totalRows, visibleRows, topPadding);
 
   noStroke();
-  fill(220);
+  fill(255);
   rect(geom.trackX, geom.trackY, geom.trackWidth, geom.trackHeight, 6);
 
   let thumbColor = isDraggingVScrollbar ? 60 : 90;
@@ -262,7 +294,7 @@ function drawTopScrollBar(chartLeft, chartWidth, topPadding, maxHorizontalScroll
   let geom = getHorizontalScrollbarGeometry(chartLeft, chartWidth, topPadding, maxHorizontalScroll);
 
   noStroke();
-  fill(220);
+  fill(255);
   rect(geom.trackX, geom.trackY, geom.trackWidth, geom.trackHeight, 6);
 
   let thumbColor = isDraggingHScrollbar ? 60 : 90;
@@ -313,6 +345,8 @@ function draw() {
     return;
   }
 
+  positionMetricToggleButton();
+
   let { topPadding, bottomPadding, visibleRows, nameTextSize, chartLeft, chartRight, chartWidth } = getChartGeometry(currentData);
   clampScrollIndex(currentData.length, visibleRows);
   let barHeight = max(1, ROW_HEIGHT * 0.9);
@@ -325,8 +359,8 @@ function draw() {
   let hoveredMetricValue = 0;
 
   fill(20);
-  textSize(18);
-  textAlign(CENTER, CENTER);
+  textSize(35);
+  textAlign(CENTER, TOP);
   text(`Viewing: ${metricLabel.charAt(0).toUpperCase() + metricLabel.slice(1)}`, width / 2, 16);
 
   stroke(210);
@@ -525,13 +559,8 @@ function mouseReleased() {
 }
 
 function drawHoverInfoPanel(item, metricValue, metricLabel) {
-  let panelPadding = 12;
-  let panelWidth = min(460, width * 0.42);
-  let panelHeight = min(210, height * 0.33);
-  let panelX = width - panelWidth - 16;
-  let panelY = height - panelHeight - 16;
-  let tabWidth = min(220, panelWidth * 0.58);
-  let tabHeight = 34;
+  let panelPadding = 20;
+  let { panelWidth, panelHeight, panelX, panelY, tabWidth, tabHeight } = getInfoPanelGeometry();
 
   noStroke();
   fill(247, 236, 207, 242);
@@ -561,13 +590,33 @@ function drawHoverInfoPanel(item, metricValue, metricLabel) {
   }
 
   textSize(16);
-  fill(43, 36, 25);
-  text(`${item.name} • ${nf(metricValue, 1, 0)} ${metricLabel}`, panelX + panelPadding, panelY + tabHeight + 10);
+  let labelX = panelX + panelPadding;
+  let labelY = panelY + tabHeight + 10;
+  let chipPaddingX = 8;
+  let chipHeight = 24;
+  let chipGap = 8;
+  let nameText = `${item.name}`;
+  let metricTitle = `${metricLabel.charAt(0).toUpperCase() + metricLabel.slice(1)}`;
+  let metricText = `${metricTitle}: ${nf(metricValue, 1, 0)}`;
 
-  textSize(13);
+  let nameChipWidth = textWidth(nameText) + chipPaddingX * 2;
+  let metricChipWidth = textWidth(metricText) + chipPaddingX * 2;
+
+  fill(0);
+  rect(labelX, labelY - 1, nameChipWidth, chipHeight, 4);
+  fill(255);
+  textAlign(LEFT, TOP);
+  text(nameText, labelX + chipPaddingX, labelY + 2);
+
+  fill(0);
+  rect(labelX + nameChipWidth + chipGap, labelY - 1, metricChipWidth, chipHeight, 4);
+  fill(255);
+  text(metricText, labelX + nameChipWidth + chipGap + chipPaddingX, labelY + 2);
+
+  textSize(17);
   fill(30, 24, 18);
-  text(`Title: ${item.category}`, panelX + panelPadding, panelY + tabHeight + 34, panelWidth - panelPadding * 2, 34);
-  text(`Bio: ${item.bio}`, panelX + panelPadding, panelY + tabHeight + 64, panelWidth - panelPadding * 2, panelHeight - 90);
+  text(`${item.category}`, panelX + panelPadding, panelY + tabHeight + 42, panelWidth - panelPadding * 2, 34);
+  text(`${item.bio}`, panelX + panelPadding, panelY + tabHeight + 78, panelWidth - panelPadding * 2, panelHeight - 104);
 }
 
 function windowResized() {

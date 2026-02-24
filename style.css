@@ -37,11 +37,11 @@ button {
   line-height: 1;
   cursor: pointer;
   /*clip-path: polygon(0 0, 100% 0, 100% 100%, 1px 100%, 0 100%);*/
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+  /*box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);*/
 }
 
 .folder-tab-button:hover {
-  background: rgba(255, 245, 218, 0.98);
+  background: rgba(192, 172, 133, 0.98);
 }
 
 canvas {
