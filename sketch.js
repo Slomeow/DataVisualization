@@ -30,8 +30,8 @@ const SCROLLBAR_WIDTH = 12;
 
 async function setup() {
   createCanvas(windowWidth, windowHeight);
-  table = await loadTable('../Data/epstein-persons-2026-02-13_cleaned.csv', ',', 'header');
-  pageFlipSound = new Audio('../Sound/page-flip-01a.mp3');
+  table = await loadTable('epstein-persons-2026-02-13_cleaned.csv', ',', 'header');
+  pageFlipSound = new Audio('Sound/page-flip-01a.mp3');
   pageFlipSound.preload = 'auto';
   console.log(table);
 
