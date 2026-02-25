@@ -27,14 +27,9 @@ const ROW_HEIGHT = 50;
 const SCROLLBAR_X = 8;
 const SCROLLBAR_WIDTH = 12;
 
-function preload() {
-  table = loadTable('epstein-persons-2026-02-13_cleaned.csv', ',', 'header');
-}
-
-
 async function setup() {
   createCanvas(windowWidth, windowHeight);
-  // table = await loadTable('epstein-persons-2026-02-13_cleaned.csv', ',', 'header');
+  table = await loadTable("epstein-persons-2026-02-13cleaned.csv", ',', 'header');
   pageFlipSound = new Audio('Sound/page-flip-01a.mp3');
   pageFlipSound.preload = 'auto';
   console.log(table);
